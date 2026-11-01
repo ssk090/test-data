@@ -1,0 +1,7293 @@
+Uh,
+very good morning,
+everyone.
+Hope everybody is doing good.
+Myself,
+Dr.
+Habib,
+I hold a PhD in artificial intelligence and I have around 20 decades of experience.
+I'm working as a head of the department in a US based company
+and apart from that,
+from the past around 15
+to 18 cohorts for AML
+I'm
+teaching uh AIML for Triple A to Hyderabad offer course.
+Apart from that,
+I have around
+15
+research papers published in various international journals.
+And I have
+3 patents in India and 1 patent from the UK
+and from San Francisco Golden Gate University.
+Around 10 people,
+they are doing PhD under me.
+So everybody having
+like,
+you know,
+the professionals with 10 decades of experience,
+they are working under me for their PhD
+graduation from Golden Gate University.
+OK,
+so this is all about myself.
+So we'll start with the unit one cohort.
+So before we are starting the cohort,
+uh,
+let us,
+you know,
+in the first two sessions,
+everybody will have a lot of questions,
+OK?
+People,
+some people,
+they have uh some knowledge,
+some people they don't have about AML.
+So some uh different kinds of questions will come in.
+So my humble request for everyone is
+to,
+you know,
+just bear with 12 sessions at that time.
+Once they are into rhythm,
+they won't ask that kind of questions again,
+right?
+So we need to take everybody onto the same page.
+That is my request for you people,
+OK?
+And while the session is going on,
+I'll stop myself
+at uh at a particular topic,
+OK?
+Once I explain the topic,
+I'll stop at that particular topic,
+and then
+I'll ask you people to,
+you know,
+uh,
+raise your hands,
+and according to the sequence of the raised hands,
+I'll take up the questions.
+OK.
+So,
+next one is like,
+I'm going to use a whiteboard
+completely to teach you people.
+And the end of the session,
+this whiteboard PDF will be shared with you.
+OK?
+So,
+like
+either a beautified notes,
+like,
+you know,
+whatever I'm writing in this,
+this will be beautified with uh Chad GPT I'll share with the notes with you.
+You can keep that PDF with you whenever in your,
+you know,
+uh,
+interviews time or any time.
+You can just have a reference
+and you can use that,
+OK?
+So,
+Hartley,
+welcome to the first,
+uh,
+next cohort,
+cohort 28.
+Hope you enjoyed the sessions.
+OK.
+So,
+the
+basic sessions,
+right?
+That one.
+So we'll jump into the AML sessions now.
+For saving the bandwidth,
+I'll just switch off my camera and then we'll start up.
+OK?
+OK.
+Today we'll start with
+demystifying machine learning.
+Demystifying machine learning.
+What do you mean by that demystifying machine learning?
+We'll try to understand
+like what is artificial intelligence
+and uh the scope of AIML
+and uh we'll see like
+what are the areas
+AML is introduced.
+So let me start with,
+uh,
+like AML is not a new thing.
+Uh,
+artificial intelligence is introduced in 1956 itself.
+But at the time,
+They used to write the program.
+So it is completely rule-based.
+So they used to write uh like
+it felt conditional-based code they used to write.
+And then if this happens,
+do this,
+this happens,
+this do like that.
+So a lot of conditions.
+OK.
+So what happens now,
+these conditions are limited
+to some sort of automation.
+Like tomorrow,
+for example,
+say that,
+um,
+like,
+for example,
+the color is yellow,
+do something.
+Color is blue,
+do something.
+Color is red,
+blue something,
+right?
+Now,
+uh,
+we talked about only 3 colors using ELS.
+Now,
+tomorrow,
+orange color introduced.
+Now,
+this particular automation won't work.
+So that is where they introduced a new technique in around 2002
+that is the classical machine learning.
+So,
+how do you get this classical machine learning?
+Classical machine learning is like when you are in 3rd or 4th standard,
+when mathematics teacher is teaching you 3 + 4 is 73 + 3 is 63 + 1 is 23 + 2 is 5.
+Now she will ask a question,
+5 + 6 is how much?
+So she is giving input
+and output,
+input and output with some examples,
+right?
+So from this a human learns.
+Human is learning through examples.
+How many examples through 4 examples human is learning.
+Now when you're giving unknown example,
+human
+is able to predict what is the next number.
+So the same technique has been implemented and they call it as a machine learning.
+OK,
+perfect.
+Now there are some
+limitations of machine learning.
+What is that limitation?
+Machine learning can understand only numerical values,
+and it cannot hold huge amount of data.
+So that means it doesn't have a capacity of handling huge amount of the
+data.
+It can take a small amount of the data,
+for example,
+up to megabytes of data it can handle.
+So another thing is it cannot
+take unstructured data.
+So unstructured data in the sense like it cannot understand text,
+images,
+voice.
+And
+audio
+and video.
+It can take only structured data,
+something like a numerical values.
+So the limitation of machine learning is like we need to give some examples,
+input with output.
+It is understanding the pattern and doing the
+Prediction.
+So for example,
+if you take Netflix,
+How it knows that which movie you might enjoy,
+how does Gmail identify the given is a spam or not?
+How does Google Maps estimate the traffic condition?
+All these are machine learning
+in some form only,
+right?
+So machine learning is like it is an artificial intelligence in which
+computers learn
+like,
+you know,
+patterns from data
+and use that pattern to make the predictions.
+This is about a machine learning.
+So
+in traditional programming,
+developers used to write these conditions like IL's conditions.
+Who is going to write?
+Developers is going to write.
+So
+now you are teaching,
+like,
+you know,
+like example has given,
+like how human learns
+that implementation they keep it and they call it as a machine learning.
+Now what the limitation of machine learning is what
+it cannot hold huge amount of the data.
+It cannot go with unstructured data.
+So then what they did is they go with another technique that is called as a
+deep learning.
+Deep learning in the sense like human
+brain,
+they have a neuron.
+This is a biological neuron.
+So biological neurons consists like this is called as a nuclei,
+these are called as a dendroids.
+So what happens is when I ask you a question,
+your brain will take that question.
+If the question is complicated,
+it will fire minimum T neurons.
+Again,
+some more neurons will be fired like this.
+Again,
+if the problem is complicated.
+For example,
+when I say
+fine 2 + 3 is how much?
+Maybe in a single neuron you are able to answer the question.
+When I say 2.32135 plus 3.12345 something,
+then you need to like,
+you know,
+you say that people will say that you are thinking.
+So you are thinking in a sense what you are doing,
+you are firing the neurons,
+your brain is firing the neurons.
+So that is,
+they call it as a,
+as a neurons,
+they call it as a neural network,
+they call it.
+And they have given this neural network a name called as deep learning.
+Now,
+whatever the
+problem you have inside the classical machine learning,
+those problems have been resolved by deep learning.
+That means deep learning can handle a huge amount of the data,
+and deep learning can handle the textual data
+and the images.
+It can handle voice,
+it can audio,
+video,
+like everything,
+it can handle.
+This is the
+Which example deep learning.
+After deep learning,
+now we are in an era of a
+generative AI.
+So now
+up to the machine learning and the deep learning,
+we used to predict only
+predict in the sense,
+for example,
+on your keyboard you're writing
+the cat.
+When you type,
+automatically
+suggested start,
+start something.
+When you're typing a message to someone,
+it say how
+are
+you type you suggesting,
+right?
+So those things are happening.
+That means it is predicting the next word.
+And it can predict,
+for example,
+given an image,
+it can predict whether the person is prone to pneumonia or not,
+that kind of thing.
+That is the prediction.
+So machine learning
+and the deep learning used for prediction only.
+Then they got a new technique called as a generative AI.
+So what they did is
+they created a language model
+with a large amount of the data.
+So we call it as a large language model because it
+has been trained with a large amount of the data.
+Like a billion billion parameters,
+200 billion parameters,
+300 billion parameters like that.
+Now what it can do,
+as the name indicates,
+it can generate the text.
+It can generate image,
+it can generate video,
+it can generate audio.
+So now we are into
+the generate to
+AI
+era,
+right?
+So this is like the basic difference between a classical machine learning and
+the
+Deep learning,
+right,
+journey to AI.
+So,
+in classical machine learning,
+if you expand,
+we can say that.
+It's going to take examples.
+And
+historical data.
+And that will be given
+to a machine learning algorithm.
+Now this algorithm will be
+trained.
+When it is trained,
+you will get a
+model.
+Now this model
+will be used to predict prediction.
+On
+Uh,
+sorry to interrupt,
+but recording is recording started,
+uh.
+Up again.
+Already started,
+Sinha.
+OK,
+OK,
+yeah,
+thanks.
+Recording is there,
+OK.
+Pavani,
+you're uh saying that voice is low.
+Is this for everyone or you're able to hear?
+Anybody have an issue?
+We are able to hear you,
+sir.
+OK,
+thanks for confirmation,
+Kumar.
+OK,
+good.
+He is clear,
+yeah.
+OK.
+So now we see some examples
+are historical data
+and machine learning algorithm.
+We are going to get a trade model.
+So prediction on new data.
+Pavani,
+please check your uh speakers.
+Maybe speakers are in low volume,
+just increase the volume,
+OK?
+No.
+The
+Traditional model,
+how it is working.
+So generally,
+if I say,
+01234.
+Or let us take.
+Traditional model
+before machine learning or how things will happen.
+Let me explain to you,
+OK?
+So,
+for example,
+there is 13579.
+Now I ask you,
+what is the next number?
+When I ask what is the next number,
+everybody say,
+Sir,
+it is 11th.
+OK,
+got it.
+But if I say,
+can you write a function for this one?
+How do you define a function?
+So when I substitute the value of this X value,
+I'm going to get this one.
+When I substitute the X value,
+I'm going to get this one,
+this one.
+So people will say
+it is.
+2 x + 1.
+Right?
+Because the X value starts from 0.
+X + 2 is the x value.
+If you're saying X + 2,
+when you put the value of so somebody write X + 2,
+right?
+So when the value of X is equal to 0,
+what you'll get,
+you'll get 2.
+You don't get 1,
+right?
+So 2 x + 1,
+when you write the value of X is equal to 0,
+you will get
+1.
+When the value of 1,
+you'll get 31 for something.
+Now,
+in traditional programming,
+what we do
+first,
+we say what is the input.
+And using a Python,
+we write a function.
+Right?
+Then
+we'll give it to the
+System where you have a CPU machine,
+it is going to give the output.
+That means we are saying.
+A is equaled
+and.
+Input
+Enter a number.
+The user will enter the number.
+Now you're writing
+f is equal
+2 times a plus 1.
+Then
+Print F
+So input you are expecting from the user
+who has written this,
+this is called as a program or
+function we can say,
+who is written,
+user is writing,
+what you are expecting now.
+You are expecting
+output.
+So output is,
+for example,
+when the user said input is 5.
+Then it is going to calculate 2 times 5 + 1
+is 11,
+output is 11.
+This is what traditional programming is happening.
+Now coming to the
+classical machine learning.
+It is something like we need to give an input,
+we need to give the
+output.
+To the
+Algorithm
+This algorithm is going to write a program.
+R
+function for you.
+That means it is going to give you the function
+F of exceed how much?
+So what is the input here?
+01234.
+What is the output?
+13579.
+So what is the function you are going to get?
+2 x plus 1.
+This is the function you are going to get.
+I need to use it.
+Algorithm.
+So that means to an algorithm,
+I need to give the input
+and output
+algorithm will understand the pattern
+and then it is going to,
+this is,
+we call it as a
+classical
+machine
+leveling algorithm.
+So classical.
+ML we call it,
+this one.
+OK.
+Let me show you an example,
+the same example.
+I'll show you just a simple collab notebook to make you understand.
+Uh,
+firstly,
+you don't need to have to understand the complete code,
+OK?
+Just a simple example.
+Just give me a thumb that everybody knows collab notebook how to open.
+You know how to use collab notebook,
+right?
+OK,
+perfect.
+He ate
+Session
+one.
+OK.
+So here,
+you have a code cell and the text cell.
+Text cell is to describe something.
+Code cell is to write the code.
+So don't worry about the score.
+The takeaway is I want to show you
+this,
+whatever I have written here,
+how this will happen practically I will show you so you can understand clearly,
+OK.
+So first of all,
+Island court required libraries.
+From scalar.linear_model.
+Import
+Linear regression
+Very
+important
+And I'll define
+what is X.
+And uh
+you know about Numpai,
+right?
+Numpaya NP.
+These are two libraries I'll import.
+Let me define
+NP.
+A day off?
+Excess input.
+So first we have a 0.
+One
+2
+3
+4
+Let us take for example,
+this is X.
+Why is
+R,
+let me give you something like
+input.
+Output,
+output is equal.
+And Bor
+Dario.
+What do we have?
+1357?
+9,
+right?
+We got
+input and export output.
+Now,
+what I need to do,
+I will need to give this input output to an algorithm.
+So let me create object of algorithm.
+LR is equal.
+Linear regression
+Then LR dot fit.
+Input
+and output.
+Now we got the box,
+right?
+This is the box what we are expecting here.
+So when I give input and output,
+we got the
+box,
+right?
+So from this box,
+I want to get the function.
+So the function I can write print.
+Prediction
+Function
+Why is it
+important to?
+Here
+LR.
+coefficient.
+0 F.
+Times of X.
+Plus
+Lord.
+Intercept.
+0
+F.
+OK.
+String pass to
+A musical LR Dart.
+Coefficient syntaset.
+Now let me take this and.
+Um
+Let's see.
+That's kidding.
+Amalfix uh.
+See you.
+So we got the equation
+2 times of X.
+Plus 0.
+So this one I can write it as a 0,
+so that one you can see,
+put that,
+sorry.
+2 times of
+2 times of
+2 times x
+plus 1,
+correct?
+So this is what we got from the equation.
+So
+algorithm,
+I didn't write the program.
+What I did,
+I defined what is the input,
+what is the output.
+I gave it to algorithm.
+Algorithm understand the pattern.
+It generated this one.
+So generally every algorithm has a mathematical,
+you know,
+what do you call
+intuition.
+That means
+it needs to find the linear regression find like this one.
+So graphically if you want to see.
+I can show you very simple.
+Don't worry about the math,
+just to make you understand,
+OK?
+Don't think that Habibi is giving math,
+so do I need to learn math or something?
+No need.
+OK.
+So let me start with
+here.
+This is for 0.
+This is 12345.
+These are X values.
+What are the Y values?
+12345678,
+and 9.
+Now
+we know that 01234,
+we got 13579.
+So for 0,
+how much you got 1.
+So here is the point.
+For 1 you got how much?
+3.
+Here is the point.
+For 2 we got how much?
+5.
+So here is the point.
+For 3 we got 7.
+Here is the point.
+And for 4 we got 9.
+Here is the point.
+Now this is called as a
+line equation.
+So where it is touching,
+this is called as an intercept.
+Where it's touching via axis intercept
+where it is touching at 1.
+So intercept C is equal to 1.
+Now we need to get the slope.
+Slope will be
+this one,
+this one if you're running
+slope is,
+for example,
+this point.
+What is this point now?
+2 and 5,
+right?
+For 2 I got 5.
+This point is how much
+for 3,
+for sorry,
+for
+let us take
+for 3 and.
+So,
+so this is 3 and 7 you can take or which one?
+OK,
+this one take it as a
+3 and 7.
+This one,
+you can take it as a 2 and 5.
+This one.
+32,
+this is
+1 comma.
+How much?
+3,
+right?
+So this is 2.5.
+I can write X1Y1,
+and this is 1.3.
+This is we call it X2Y2.
+The slope will be the slope will be calculated by
+y2 minus 51.
+So 3 minus 5,
+x2 minus X1,
+1 minus 2
+minus 2 by 1.
+So how much we got 2.
+So that means m is equal to 2.
+So this is the equation of y is equal to m x plus c.
+Why is it called the value of 2 is 2 X plus C is how much 1?
+We got finally,
+so this is the way algorithm will plot
+and use the mathematics and then finally it is going to produce the
+equation.
+Clear?
+OK,
+I'll stay here for a minute.
+Any questions?
+You can raise your hands one by one.
+Raise your hands first.
+Please raise your hands so we can.
+OK,
+go ahead.
+Yeah,
+uh,
+actually
+we have taken this equation Y equals MX + C,
+right?
+So how can we know that always this is the equation,
+or is it like,
+uh,
+this linear regression implements
+that equation.
+This is an algorithm.
+Every algorithm has
+mathematical intuition,
+right?
+So if you go to
+SKL library.
+You can see
+different kinds of algorithms here.
+So we'll talk about supervised unsupervised learning.
+So classification regression.
+So this is a regression,
+which is a line equation.
+OK.
+In this,
+which I,
+which one I took
+linear models.
+In the linear model,
+I took one of the equation Y is equal to MX + C this one.
+OK.
+So every algorithm has the mathematical intuition that will be applied.
+So what you define here,
+that technique will be applied.
+Understood?
+So it will only determine,
+right,
+uh,
+the equation to be considered.
+Yes,
+correct.
+OK,
+thank you.
+Palak.
+Hey,
+am I audible?
+Yeah,
+you're audible.
+Go ahead.
+So my question was like,
+uh,
+when you were uh arranging the input,
+it's an array of array
+and output is just an array.
+So any reason for that?
+This is what you mean to say.
+Actually,
+input is the features color,
+OK?
+Features has to be in a row format.
+So this is a row vector,
+this is a column vector.
+OK.
+Got it.
+OK.
+Yeah.
+Sita
+Yeah,
+um,
+for this example,
+um,
+you've used a specific,
+um,
+um,
+I think,
+uh,
+algorithm to get the,
+um,
+uh,
+function,
+but for more complex problems when we're,
+we're solving any other problem,
+so is it like expected that we should know which,
+um,
+algorithm to use to get
+or extract that
+expression so that mapping.
+Yeah,
+as an ML engineer or a data engineer,
+you must know
+the card when you see that data,
+look and feel.
+First,
+what happens is generally,
+Let me tell you something.
+Suppose if you are building any any classical machine learning in production,
+OK,
+in industry.
+First,
+we go with the raw data.
+OK,
+for example,
+let us say,
+uh,
+I want to check,
+uh,
+some
+news I want to classify whether it is a
+positive news or negative,
+you know,
+what do you call negative news something or any
+sort of data I'm collecting from where
+I'm collecting from various resources like I'm collecting from LinkedIn,
+I'm collecting from News 9 or various data,
+right?
+Then what I will do,
+I'll preprocess the data.
+I first collect all the data.
+Collect the data
+Then we preprocess the data.
+Then we do the
+teacher engineering.
+Then
+we are going to
+put that into
+uh
+analysis
+that is visualized.
+Then we are going to write an
+algorithm
+and
+then we deploy the model.
+Now the person who is collecting the raw data.
+To this preprocessing,
+they are called as a
+data engineer.
+And the person who is extracting the feature and doing analysis,
+we call it as a data analytics.
+Then the person who is writing algorithms,
+we call it as an ML engineer.
+The person who is deploying,
+we call it as an ML ops engineer.
+OK.
+Now,
+the person who is doing ML engineer,
+what you are doing AML engineer course you are doing,
+right?
+So you need to understand,
+looking at the data,
+what kind of algorithm I can implement,
+OK?
+So for that,
+first you imply one algorithm,
+you'll see if you're getting accuracy 90% or something,
+you'll keep it.
+If you are getting only 40%
+what you will do,
+you'll chase the algorithm.
+So that means the data is not suitable for this algorithm.
+So this is completely hit and run and the experience,
+OK?
+Hope that answers.
+Yeah,
+uh,
+and one more,
+uh,
+question in continuation,
+like,
+uh,
+uh,
+and
+it is developed a lot now,
+so,
+uh,
+are there any,
+um,
+like,
+um,
+uh,
+scope to extend it,
+like,
+uh,
+so suppose I have a problem in hand,
+which is not being solved by any existing,
+uh,
+um,
+algorithms,
+so.
+Yeah,
+actually,
+in 2014,
+uh,
+when I read the linear regression,
+I've implemented uh
+a little bit changes and published the paper.
+OK?
+So you can do that.
+So you see somewhere saying that in this data,
+apart from the linear regression,
+maybe you need polyregression or something
+that you can apply.
+OK.
+Yeah.
+Thank you.
+So
+that.
+Once you are done with your question,
+please lower your hands so that I can see how many people left over.
+Yeah,
+uh,
+yeah,
+thanks.
+I was speaking one minute.
+I got the concept and everything,
+but only thing I'm a little bit confused about
+go to the,
+uh,
+collab and how did you define
+this conception that I understand
+from the rule number 5
+LR is called linear regression.
+Is that a predefined function
+which one coefficient?
+No,
+no,
+LR is called linear
+linear linear regression is I've imported right this one.
+OK,
+so that's a pre-defined function.
+OK,
+pre-defined class.
+It is not a function.
+Yeah,
+it's a class.
+OK.
+And uh
+how do you write the row number 5 like M is equal to LR coefficient
+because
+we have,
+uh,
+not used much all these things,
+right?
+So
+yeah,
+so,
+so basically I'll tell you as a developer first you have to see help
+object name,
+OK.
+So then
+you will see here what are the functions defined here.
+The methods are there,
+OK.
+In this you have the methods,
+all the methods.
+So,
+you have the parameters,
+right?
+So what is X,
+how to define,
+Y,
+how to define,
+and uh what is coefficient,
+everything here,
+the function is given.
+OK.
+Basically you're uh converting I use gold time x plus C here
+correct yeah
+so for example here is given right coefficient.
+So you got that one
+and then you have an intercept.
+This is one you can understand.
+So just for anything if you don't understand,
+write down in collab help and that object name.
+Got it.
+For example,
+you define a list.
+List is equal
+123.
+This is a list,
+right?
+How do you know it's a list?
+Very simple when you say
+type.
+Type of what is the object name?
+L,
+right?
+So it's a list.
+Now,
+what is the functions you have list?
+List a lot of functions out there,
+right?
+Append
+and uh you have uh delete remove like that.
+So copy,
+count,
+extend,
+index,
+insert,
+pop,
+remove,
+reverse,
+no need to remember.
+Just take it and see for example here append is there.
+What is append self is ignore.
+You need to object,
+so you need to understand.
+So append object to end of the list.
+OK,
+so which function append
+append has to followed by which one
+top here list.
+So you have to write,
+OK,
+list followed by a pen and object.
+Object is,
+for example,
+7.
+Now when I print L,
+you can see.
+70s.
+That's very simple.
+No need to remember the code now.
+OK.
+Yep,
+makes sense.
+So do you suggest any practice of some,
+uh,
+for the Python,
+something basic in terms of in context of why code I'm explicit?
+No need,
+no need.
+Whatever the classes I'm taking,
+right,
+hands on code I'll do.
+Just follow me and after the session do the same without
+seeing at the code,
+OK?
+You will become,
+uh,
+proficient in,
+uh,
+Python and also in the machine learning.
+That's it.
+Thanks,
+thanks a lot.
+Yeah.
+Spanish
+Ramesh,
+past,
+sorry,
+I was talking on mute.
+So SK Learn you said
+what is the type and um
+let me see is it
+SKL is a package
+which is given by open source community for all machine learning algorithms.
+OK,
+Psycheit learn.
+Mhm.
+I could
+learn.
+So it is not,
+um,
+with any AML or um it's not with those companies.
+It is an open source,
+right?
+So all the tensor flow,
+whatever we are using all the frameworks.
+It is not with the one for company.
+This is also open source.
+That is the reason now
+AI is flourishing like that,
+right?
+It's not like Java,
+for example,
+or I can only uh having that right codebase.
+It's with open source.
+OK,
+thank you.
+Psyki
+learn,
+right?
+It is,
+yeah,
+psychit learn.
+So we call it as SKL.
+We call it
+SK stands for psychic.
+Yeah,
+OK,
+thank you.
+Yeah,
+because here I have written right SKL,
+the short form,
+yeah,
+yeah,
+yeah,
+OK,
+uh,
+y,
+go ahead,
+y.
+Yeah,
+hi,
+good morning.
+Hi,
+very good morning,
+yeah,
+in this session,
+uh,
+I mean like,
+uh,
+here if you see,
+uh,
+in the code like line number 5 or like we are writing some
+code like
+a few just open it.
+Uh,
+5,
+like just no expression has pointed out the same point,
+yeah.
+So here we have some points like m equal
+to intercept and you have some written some equation.
+Oh yeah,
+these things.
+So do we need to,
+uh,
+like how to get used to this kind of syn syntaxis,
+or should we remember or like how to get no
+need there that just I said sorry I said help.lr,
+right?
+Help LR
+which is giving like which coefficient we need to get
+so linear regression is why it's called MX + C,
+right.
+In MS let's see what do you need?
+You need a coefficient.
+You need the intercept.
+So just write down coefficient and intercept.
+You are going to get the
+coefficient in mathematically we say m,
+right?
+And the intercept we call it C.
+Just have given the names.
+If you don't want,
+you can give A and B also,
+right?
+Yes,
+yes,
+OK,
+OK,
+got it.
+So going forward it is,
+um,
+pretty much enough like if you follow,
+uh,
+this,
+uh,
+I mean what are the codes you write and then practice that's enough.
+You don't need to go with any Python,
+uh,
+notebooks or anything.
+Whatever I'm writing,
+it's completely hands-on sessions,
+OK,
+and I'll do the live coding.
+You follow me.
+Sometimes we'll get errors.
+We'll correct it.
+You'll understand that,
+right?
+So
+just now you did a one correction.
+We did it.
+So as it is a string it is unable to concatenate.
+So I just
+removed that function correct.
+So that kind of things you'll see the live coding
+that will help you in real real life problem solving.
+OK,
+OK,
+OK,
+then that's it.
+Thank you.
+Yeah,
+welcome,
+Prakash.
+Hello sir.
+So my question is,
+in the one note you mentioned,
+uh,
+there is a features engineering after
+engineering,
+yeah.
+So,
+um,
+what are the responsibilities of the features and how
+it is affecting feature engineering in the sense,
+like,
+for let me take an example.
+Your HR came to you and said that
+whenever a new person comes in,
+I want to predict the salary.
+Now you ask your HR in Excel sheet,
+what do you have the data?
+He said,
+I have the name of the person.
+I have age of the person,
+his city,
+his email,
+and his qualification
+and his experience,
+and I have a salary,
+right?
+This is all historical data.
+Agree.
+But in this you tell me,
+did name will decide the salary?
+No.
+Age will decide the salary.
+No.
+City will decide no.
+Email will decide no.
+What you will decide?
+The qualification of the person experience
+and you're going to get salary.
+So instead of 1234567 features,
+you are taking 3 features.
+This is called as a feature engineering.
+So this is called as a handmade selection.
+OK.
+Then we have libraries will decide
+for this also we write algorithm.
+Algorithm will decide which are the good features.
+Understood.
+Yes,
+yes,
+good.
+These are also manual
+process like manually we have
+in feature engineering we'll study that,
+uh,
+Prakash,
+OK,
+we have a chapter called as feature engineering
+in that handmade feature selection and with the
+SKLR we have feature selection and with the
+covariance we have,
+uh,
+feature selection.
+OK,
+we'll see that.
+OK,
+thank you.
+Yeah,
+let me
+go
+here.
+Fast,
+fast,
+go ahead.
+Prakash,
+please lower your hand.
+Mihir,
+I think.
+Nihali
+Uh,
+hey,
+hi,
+um,
+uh,
+just quickly,
+like,
+you know,
+um,
+I mean,
+you have told that we,
+we follow,
+uh,
+uh,
+your,
+uh,
+session for getting
+that hands on and all to understand getting acquainted with this.
+So what do we do like while you're saying we practice on
+the Google Color or you have shared it somewhere that we,
+uh,
+load it or like how,
+how do we,
+like what do we do basically when you are saying the class?
+OK,
+so once the class before I starting the class,
+actually I forgot to share with you people.
+I'll share the notebook something like this,
+uh,
+Nihali,
+OK,
+OK.
+So once you get this notebook,
+what you have to do is
+you have to go to
+5
+that we know.
+Like I think most of us,
+uh,
+we save a copy and drive.
+No,
+don't first listen,
+Nihali.
+Sorry,
+go ahead.
+I said 5,
+then save a copy.
+When you say save like this one what I shared,
+you cannot edit it,
+OK,
+right.
+So when you create a copy.
+This copy you write down your name Sri Nihali
+then AML session.
+This you can edit
+this copy.
+This is what I meant to say,
+OK.
+That's it.
+You can with me,
+you can execute the code and you can see you're getting the same or not.
+Makes sense.
+Yeah.
+Yeah.
+Perfect.
+Thank you.
+You're welcome,
+Paul.
+Yeah,
+uh,
+am I audible?
+You're audible,
+Paul.
+Go ahead,
+yeah.
+So,
+so the thing,
+right,
+like in this case you gave like 3 or 4 inputs and 3 or 4 outputs.
+Right,
+what is the question,
+Paul,
+because everybody just give me the question.
+It's
+like if,
+if you just give one input,
+right,
+it is,
+it is possible that you can just
+create like
+y is equal to one kind of equation,
+right?
+So depending on the number of inputs and outputs that we give,
+yeah,
+like the
+algorithm keeps changing,
+is it?
+Yeah.
+So for example,
+if you have only x and y,
+this is y is equal to m x + c,
+right.
+Yes.
+For example,
+X1 X2Y,
+this will be Y is equal to M1 times X1,
+M2 times X2 plus C.
+If it is X1,
+X2,
+X3,
+and Y,
+then Y is equal
+M1 X1,
+M2 X2,
+M3 X3 plus C like this we write it clear.
+Uh,
+no,
+not very clear.
+Like the,
+it will produce.
+We don't try,
+Paul.
+It is going to create like that depending upon the variables
+input it is take,
+it will take care of.
+OK,
+so,
+OK,
+so you're saying like instead of 0,
+just 0,
+I have 0 and 1 like multiple
+features
+then it will identify the question based on how many are features that we give.
+I
+is that right?
+Yes,
+so for example,
+input
+here I have written 0.1.
+1.2
+2.3
+3,4
+4.4.
+0 + 1 is 11 + 2 is 32 + 3 is 53 + 4 is 74 + 4 is how much?
+8,
+correct?
+Yeah.
+Now I said,
+LR is equal.
+Linear regression.
+Need to create that
+every time is it or we cannot reuse that I love that we created above.
+Yes
+we can,
+but best practice is reuse it,
+OK,
+OK.
+OK.
+Now,
+here you know that how is the equation you write?
+Tell me,
+01.
+How do you write in this one?
+We have.
+X1,
+X2,
+and Y.
+01 is 1.
+Uh,
+1 and 2 is 32 and 2 is 43 and 4 is 74 and 4 is 8.
+This is where,
+right?
+So the equation will be why is equal to m1 times x1 because one variable,
+m2 times x2 plus
+c.
+So these coefficients,
+right?
+X1 x2,
+how many we need to get?
+2 coefficients,
+correct?
+Yes.
+OK,
+and intercept will be 0.
+So
+when I write LR
+coefficient,
+You will see two coefficients,
+1 and 1
+like that,
+understood now.
+OK,
+that is why it was an arranged.
+Uh,
+yes,
+exactly,
+exactly.
+OK,
+so in this case,
+right,
+the 4 + 4 instead of 8,
+suppose if we put 9 in the output,
+somehow it will figure out that
+yeah,
+if we are going to get some other different number.
+It will,
+it will somehow figure out that equation.
+Yes.
+The linear regression.
+Exactly.
+OK.
+Thank you.
+See that?
+Yeah,
+hi.
+So,
+uh,
+small question.
+So we are doing the input and output.
+So
+basically based on the input and output,
+we are going to find out the algorithm like price for MXpress
+here some other equation.
+So yeah,
+machine learning is just to give us what is M,
+what is C,
+that's it,
+right?
+Exactly.
+We,
+we need to find out what,
+uh,
+we need to find out the price for MXpressly as a
+no,
+no,
+we need to find no need to find out.
+Here just
+application itself linearization itself it is giving right what is M and C.
+I'm just showing you like this.
+So when I say for example this one,
+so I got the first one LR
+and uh
+let me go to
+uh
+Here
+LR.predict.
+For example,
+we have
+number.
+Like
+So what is output 11,
+we got it,
+correct?
+Reserve it to it.
+OK,
+we don't need to mention,
+uh,
+that this,
+this is just to show you like on the whiteboard how it is coming.
+I'm just showing you
+no need to write this one also.
+Just we write the predict function automatically.
+We'll do the prediction.
+OK,
+OK,
+understood.
+Thanks,
+Paul.
+I think please lower your hand,
+uh,
+saiwaha.
+Yeah,
+hi sir.
+Uh,
+in the notes you mentioned the roles that are related to current market,
+right?
+Yeah,
+exactly.
+So,
+uh,
+In the evolving market,
+is it,
+uh,
+any like,
+uh,
+mm,
+right now,
+uh,
+previously we used to have,
+uh,
+front end developer,
+UI developer and database in database developer,
+and,
+uh,
+all coming to full stack developers now
+so
+in near future are currently
+all these roles combine into one as a full stack AML,
+uh,
+engineer something like that.
+Yeah,
+definitely.
+So
+they're expecting more uh from both in uh future engineer side.
+Very good question.
+Nowadays I'll tell you what is going to happen next,
+what kind of role industry will look into.
+We call it as FDE in AI.
+This is called a
+heavy
+forward
+uh deployment
+deployed
+engineer.
+He must be proficient with UI
+back end
+and the APIs everything.
+So
+you need to have a knowledge of UI.
+You need to have a knowledge of the back end
+databases and something,
+APIs like that,
+OK?
+So you use the AI to build this one.
+So you don't need to be a proficient in React JS developer or something.
+You don't need to be a database administrator,
+OK.
+Uh,
+like,
+so you are going to just be aware of how UI works
+and you need to give,
+use the tools,
+like,
+you know,
+coming to generate AI tools.
+What is agent DKI you have in the sessions,
+OK?
+What is agent DKI deployment,
+fast API,
+everything.
+So once you complete that,
+you'll understand like what kind of roles you are going to fit into that,
+OK?
+OK.
+OK,
+thank you.
+You're welcome.
+We're here.
+Uh,
+one question,
+uh,
+so,
+uh,
+in this particular example it was very
+intuitive that the series is linear regression,
+uh,
+but let's say we have a series like,
+uh,
+something like people are,
+yeah,
+yeah,
+correct,
+uh,
+yeah,
+so,
+but,
+but,
+uh,
+some series may be like confusing where we are not sure if it is linear or polynomial.
+So how do we start at that particular point.
+First we'll go with the classical machine learning we have.
+Otherwise we go with the deep learning,
+OK?
+If deep learning is not solving,
+then we go with the generative AI.
+This is the way we do it.
+OK,
+OK.
+Why we avoid generative AIA
+token cost a lot,
+right?
+Nowadays
+they look for you.
+Why you are studying AML
+now generate AI is there,
+right?
+Still,
+while you're studying AML,
+I'll tell you,
+because now the market going forward,
+they look for somebody
+who is saying as a forward deployed engineer,
+it means you must have a knowledge of
+how to reduce the tokens.
+Don't give everything the generative AI.
+People are thinking that AML is vanished now.
+No,
+it's not like that.
+That's totally wrong.
+AML is never,
+it's going to vanish.
+It is the root.
+You have to be very good in the AML.
+You have to be hands-on in AML because sometimes what happens is
+you have the data nowadays,
+right?
+Everybody have the data.
+Without data even generative also can't do anything.
+If you don't give the Fibonacci series and ask the question,
+it can't give you,
+right?
+So you can first try with the ML algorithms,
+try to reduce the
+uh tokens
+where ML is not possible.
+Something you're ambitious is there,
+something like,
+you know,
+uh,
+then you need to go with the then AI.
+So that's where you play the role and the people will like you on that role,
+OK.
+OK,
+yeah,
+yeah,
+Sunil.
+Hey,
+hi.
+So,
+so one question,
+right?
+So from the basic concept of machine learning is you,
+you're training,
+right?
+You know the input and output.
+So let's say,
+let's say I'm not sure on the output.
+So we'll,
+we'll then you can't do,
+you can't do anything.
+You cannot.
+So I should,
+I should be able to know,
+OK,
+it is an example of my input and output so that way I can,
+I can play it on and define a model to it.
+But if I don't know the output,
+then you cannot do anything.
+You cannot take ML ML.
+It's not possible.
+OK,
+so generally
+there are three rules for that.
+So
+everyone remember.
+Somebody approached you saying that a bank approached you and said that,
+can you build
+an algorithm which can check whether shall I grant a loan to the person,
+yes or no.
+You need to look into 3 things.
+First thing you ask him,
+do you have a pattern?
+If he says there is no pattern,
+you cannot apply
+AML.
+Second thing,
+can we apply mathematics on that?
+He said yes.
+Then well and good.
+He said no because previously you don't know,
+then well and good.
+Third thing is the data.
+You will ask him,
+we have data.
+He said,
+I don't have historical data.
+You close the door,
+say it is not possible to develop algorithms,
+sir.
+That's it.
+OK.
+But
+nowadays another provision I'll tell you,
+Sun,
+one other one was.
+So if they don't have data,
+they are saying that OK,
+we don't have data now using generative AI we can create synthetic data.
+It's not original synthetic data mimic means on that we can build the algorithm
+and we'll give it to the bank.
+The bank will replace the synthetic data with original data and they use it.
+That's why also it's possible.
+So at least you need to know the pattern,
+right?
+So let's say out of all these three,
+if I even I know that
+pattern in today's world,
+I can do anything.
+I can do that machine learning.
+OK,
+got it.
+Thank you.
+OK.
+So this is about classical machine learning,
+right?
+So another example I'll give you that is deep learning example.
+No need to understand the code or something,
+just
+Mm
+Beach of
+the machine.
+OK.
+So,
+I told you,
+like for example,
+if you have an image,
+classical machine learning cannot work,
+right?
+Or textual data,
+it won't.
+We need to go with a deep learn.
+So one example of the deep learning just to understand,
+for example,
+I need to classify
+cat and dog.
+What we can do,
+we'll go with the google.com.
+And say cat images.
+You will see cat images.
+Some all images will get it.
+Download these images.
+Then same one,
+dog images.
+Download dog images.
+Bye.
+Download the dog images.
+Once you download the cat and dog images,
+what you can do here,
+let us say this is the cat class.
+Click this,
+this is the
+dark class.
+Now you can upload
+from library.
+I have
+some.
+They
+stop
+Maybe
+27.
+OK.
+Some cats already have downloaded in the last batch,
+so I'll use those one,
+OK?
+5 cats.
+No,
+I'll upload.
+Some dogs
+Now it's a clean the model.
+So it took some
+cats,
+it took some dogs,
+trained the model,
+it understand.
+Now I said from the 5,
+I choose
+one of the example
+test cat I will take,
+dog test,
+for example,
+OK.
+Now it predicted that 95% it is a dog.
+So
+first,
+what is happening,
+we are giving some
+data.
+So this is what is happening.
+So we gave some data.
+Examples and historical data
+to machine learning algorithm
+training happened.
+Now prediction done.
+So how do you do the prediction like this one?
+So here we are using image,
+right?
+So this is a classical example of neural network.
+So in coming sessions,
+you are not going to use,
+you are going to build neural networks,
+OK,
+like a nourishian neural networks,
+recurrent neural networks,
+uh,
+long short term memory,
+and like that,
+you are going to build those things,
+OK.
+Did we take any questions in the chat?
+A session 8
+can someone download above file and share in chat?
+OK,
+you want to download and just open it,
+then you can say
+create a copy.
+OK,
+yeah,
+professor,
+some people don't have access to collab because of their office laptop issues.
+So,
+oh,
+OK,
+OK,
+great,
+yeah,
+that's right,
+yeah,
+no problem,
+very good,
+yeah.
+So
+OK,
+hope it is clear now.
+Good.
+Now,
+do you select the algorithm here.
+Yes,
+actually here the inbuilt algorithm convolution neural network which.
+OK.
+That because it's very advanced one,
+I did mention,
+think like algorithm only,
+OK?
+What value do you add here?
+Kamal,
+what value we are adding,
+like for example,
+in Aadhar card,
+your image classification is there.
+That is done with the convolution networks only,
+right?
+So when we are building the images,
+that's where we are doing all finger fingerprint predictions.
+Right?
+Whether you are somebody else.
+All those things are deep learning examples.
+So that's not value adding.
+For example,
+when you're standing in front of the camera,
+it is saying that,
+OK,
+Kamal is in,
+in the office.
+So that's also value added,
+right?
+Instead of
+getting in the office,
+writing onto the notebook,
+and you're just putting your finger and you're logging in,
+right?
+All those are deep learning examples.
+Is classical programming internally uses traditional programming,
+no mahesh.
+Classical,
+not programming,
+classical machine learning
+internally uses mathematical models,
+OK?
+Like linear regression,
+classification models are there like that,
+OK?
+As an ML engineer,
+our expertise lies in picking correct model and improving accuracy,
+exactly correct command.
+Yeah,
+yes,
+somebody unmuted.
+Yeah,
+that's me.
+So,
+uh,
+why I got that question that the classical programming
+or classical machine learning uses traditional programming is like,
+uh,
+we are giving,
+uh,
+now,
+uh,
+two kinds of inputs.
+One is we are mentioning input and another is
+mentioning as output which is internally is like a.
+Giving an input and we are trying to
+uh find out the intercept and uh
+coefficients from that.
+So the intercept and coefficients are becoming the outputs here
+from the
+uh not outputs,
+they are a core function it is creating,
+right?
+In traditional programming,
+you have to give the input and you have to write the program.
+Output is generated,
+but whereas in a classical machine learning,
+you just give input and output,
+it is generating the function for you.
+That is what the automation,
+you no need to think of a logic,
+how to write it,
+right?
+It is taking care of the logic.
+Yeah,
+OK,
+yeah.
+What is the teachable machine?
+How did you select the model here?
+Classify the image cata Nihali.
+This is just you are the first class,
+right,
+to make you understand
+some visual tools are there.
+This is why Google.
+Google developed for the beginners
+to classify the images,
+so no need to build from the scratch.
+You can upload your
+images and you can download the model and you can use it.
+That's what I just show you like.
+Uh,
+how model is working,
+but in coming sessions,
+you'll understand
+what is convolution neural network,
+how the image is classified,
+all those things in coming sessions,
+we'll discuss.
+Today is your first step only,
+right?
+Yes,
+hush,
+our completing neural networks will work on this,
+OK?
+OK.
+Now,
+let us jump into the slides.
+Now you can answer all,
+you will,
+yourself,
+now you will give the answers to all the slides now,
+OK?
+Without an explanation,
+you can understand
+because now you've got some hands-on,
+right?
+So let us understand.
+So,
+first we start with
+uh
+AML in.
+Work
+at work.
+So generally,
+you can see
+a self-driving car needs to observe its surroundings,
+interpret what it sees,
+predict what might happen,
+and decide what to do.
+Here we take the classical machine learning or deep learning.
+We'll take the deep learning,
+right?
+So when
+the moving,
+the car is moving,
+it will identify whether it's the right side,
+left side.
+It identify the pedestrian,
+it estimate their position,
+movement,
+predict whether they might enter the road,
+determine the safe driving action.
+It controls the brakes and everything,
+right?
+So
+several AI technologies combinations are there.
+So one of the technology combinations is the deep learning.
+So that is implemented in autonomous cars and the
+robot navigation.
+So next thing is you might have seen the Alexa,
+Siri,
+Cortana like that,
+right?
+So
+this Alexa,
+Siri,
+Cortana,
+they work with the natural language processing.
+So they are going to see the semantic similarity.
+So when I say
+temperature,
+it is going to search in the internet because without connecting to the internet,
+your Alexa will not work.
+And Cortana will not work.
+R Siri will not work,
+right?
+So it will take that
+and it will put it to the Google saying that,
+OK,
+what is the information,
+and then it takes the information and then give it to you.
+So this is also a kind of
+what do you call machine learning only.
+So what it is doing,
+it is taking the spoken audio
+and understanding the speech
+and language understanding,
+execute the
+action,
+and then voice confirmation.
+So how things will happen
+for this one
+first it is going to take the spoken
+audio.
+Then
+that is going to identify the speech,
+speech regulation,
+then it understands the language,
+then it will execute the action.
+And then it is going to play with the
+voice.
+This is what happens in the Alexa series.
+This is also one example of
+AML,
+OK?
+Next example.
+Creativity.
+Creativity means we have a GAMS we call it generative adversal network.
+Like you give your old images,
+it can say like after 10 years how you look like.
+So neural network will do that.
+OK?
+So that is the generated images.
+So AI can generate new images,
+OK,
+through using GAN.
+We can do that.
+And AI can use a technique to play the game against you.
+So if you build,
+uh,
+you know,
+automation program,
+and then it can play a game against you,
+right?
+That's what playing against is like,
+you know,
+better than human it can play.
+That's what the checkers first happened,
+correct?
+And,
+uh,
+end to end driving,
+how the magic will happens when the car is driving.
+And it's going to understand
+the object.
+What is it,
+a human or it is a pedestrian
+or it is a right side or left side.
+Then the wheel will be movement will be there.
+So here what is happening now,
+just now I have given a teachable,
+right?
+So in the teachable what I gave,
+I gave some images of cat.
+I gave some images of
+dogs and say identify.
+So who is building the features now?
+The AI itself building the features,
+right?
+So for example,
+cat and dog,
+how you make a difference
+in the size of the ears and the nose size or
+the mouth size or the teeth size,
+something like that,
+correct?
+So that who identify the important feature AI will
+identify using some convolution network technique we call it.
+And then
+it is going to,
+when you give an input to a similar way
+when you take a street image,
+it identifies the features like on the street what do you have,
+whether it is a right side symbol,
+right hand
+moving the right hand side
+or left hand side or go straight something,
+and then the driving wheel happens.
+OK,
+this is an example of
+end to end driving example.
+Now just now I told you,
+like in the modern AML what is happening,
+data we have to give and machine learning will understand.
+So machine learning will understand the pattern.
+What is the data we have given here?
+For example,
+01234,
+and 13579.
+It understands and then it created a
+function.
+This is we call it as a
+classical machine learning.
+So in modern AI
+we have a language,
+we one of the components called as the NLP,
+natural language processing.
+And we have a computer vision
+which through the camera it can capture the object and classify,
+and we have a mic microphone.
+Through microphone it can do the speech recognition,
+and we have robots which can listen to us and do some actions.
+So these are the combination of modern AI we can say.
+So in modern AI we don't have only a language
+or vision or speech or movement.
+We have a combination of all those together.
+Right?
+So nowadays we are getting a humanoid
+at home which can listen to you,
+uh,
+or you can see a robotic vacuum cleaner.
+So whenever you throw a tissue paper,
+automatically it identifies,
+it comes and picks it up and go and put a,
+it will be at that station,
+right?
+It's a parking station.
+So that is all the combination of modern AI.
+OK.
+So,
+the one example I have given 13579.
+What is the next number?
+So you said it is 11,
+right?
+This is what you said.
+Now the question is,
+how do you define a function?
+You said
+function will be a fix is equal to x + 1,
+where x value,
+keep it 0,
+you'll get the first number,
+x value
+1,
+you'll get the second number,
+x value
+2,
+you'll get the third,
+x value 3,
+you'll get the fourth number,
+right?
+So,
+Now,
+when I say what is this next number?
+Can anybody guess what is the next number?
+Autism
+42.
+Anybody else?
+5151 Navine
+said 51.
+139 1933 51.
+What is the equation of it?
+Yeah,
+uh,
+yeah,
+x2 + 1.
+Perfect.
+So
+first difference plus 4
+to x2 + 1.
+OK.
+So when you keep the value of 0,
+it is 1.
+1212 + 13
+and
+this is 01234 when I said 5.
+5 minutes,
+55,
+no?
+25 + 1.
+So 25 to the 50 + 1,
+51 this way,
+right?
+So,
+for a simple one,
+everybody said,
+OK,
+11.
+But when I did a little bit complication,
+it is a
+little bit time you took it,
+right?
+So that is your thought and then you came up to a solution.
+So if you're
+doing a traditional programming,
+you have to write this equation.
+Whereas in a
+classical machine learning,
+you just give the input output,
+who is going to write this function for you?
+ML will write the function for you,
+right?
+This is what.
+Now,
+how do we solve such problems?
+So first,
+we find a pattern from the examples
+and then we'll get a function.
+So that is the model data we call it.
+Model,
+what do we call it?
+OK?
+So what we do now,
+after getting this,
+we do the prediction.
+For example,
+Here,
+generally,
+first,
+we
+imported
+and we created a
+1357.
+We created a lot.
+Now,
+what we do now.
+We are going to predict,
+so LR
+predict.
+Now we give the number.
+So we are getting 11,
+correct?
+So,
+that's where it happens.
+So first,
+we import the required libraries
+and we'll define what is the input and output,
+and we create an object of a linear regression,
+and then we do the
+prediction,
+LRD predict what do you call it,
+correct?
+So
+here you can see
+in this slide also.
+So how do we solve
+to predict the next number?
+First,
+we understand the pattern
+that is using the linear regression.
+Linar regression is writing,
+so internally you no need to see what equation it is,
+right?
+So just simply you have to see,
+uh,
+that
+this equation is going to solve the unseen number or not,
+right?
+We still can see a presentation,
+not the notebook.
+Can you see the presentation now?
+Yeah.
+Yeah.
+Yes,
+what is the issue for
+PPD?
+It's like
+I could able
+to see that,
+yeah,
+OK,
+perfect.
+Somebody said
+you want to see the no collab.
+I'm sure.
+So,
+how do we design a computational procedure?
+So first,
+We have the data.
+We define the algorithm
+and you're going to get it.
+So what is the data we have?
+01234.
+Output is 13579.
+Algorithm I took is LR,
+that is the linear
+regression.
+I need to decide which algorithm
+and it is predicting the function fx,
+right?
+So
+for any problem
+in ML
+first we need to feed the data to an algorithm.
+Algorithm will generate the function.
+So now I'll use this function or we call it as a
+model we call it.
+Now I'll use this LR
+model or LR to predict the unseen number.
+So for example,
+13933.
+What is the next number?
+51.
+And then you got the equation.
+So when I give you some like complicated problem,
+like 0.
+instead of 1,
+I said 0.993.029,
+18.98,
+33.01,
+something like that.
+What is the next number?
+So then what happens now here
+in this situation,
+you
+need to do some mathematical equations to come up.
+So this kind of problems can be solved by
+Linar regression.
+So to understand,
+I give you a very simple example,
+but generally in industry we are going to take
+linear regression and logistic regression,
+anything for
+complicated.
+So now there is one question
+that only one
+input is enough.
+No,
+we can take two dimensional also,
+and then we can predict what is the next number.
+So 1 is 32 is 63 is 9.
+So it is something.
+One,
+it is there,
+so it is going to get 3 times 13 times 23 times 33 times 12.
+So can I write X,
+3 times X,
+the equation?
+Correct.
+So X is when you give 5,
+so 5 times 15 will be there.
+Correct.
+Next number.
+So if I ask you what is the next number,
+you say 5 and 15.
+How you are getting,
+you understand the pattern.
+So 131 times 3 is 3,
+or 3 times 2 is 63 times 3 is 9.
+I can understand.
+So here,
+total point is not only single dimension.
+If you have a two dimension also,
+we can solve it.
+Like for example,
+1326.
+31326394 12.
+We know what is the Y value,
+right?
+That is possible.
+2 dimensions also possible.
+So for that pictorially you can see for 1 we got 3,
+for 2 we got 4,
+and for 3.
+So it can predict what is the next number.
+So it is a line equation only.
+So it is cutting somewhere else,
+right?
+So at 1 it is cutting
+or
+so if you're drawing correctly,
+it is cutting at 0.
+So intercept is how much?
+0 is the intercept.
+You got the slope like that,
+OK.
+Yes,
+Prakash,
+go ahead.
+Uh,
+so you use the predict function on input.
+Uh,
+so is it possible to do the predict function on output very well also?
+Come again,
+come again.
+Uh,
+the input,
+you use the predict function on input variables,
+right?
+Uh,
+yeah,
+the input only is going to give the output,
+right?
+If you give output,
+what you will get?
+Yeah,
+the predict function will give the next value,
+right?
+Yeah,
+predict function is going to give when unseen input.
+What is the output?
+This is what the prediction,
+right?
+Yes,
+yeah.
+So why do you give output if you have no output?
+Why do you give output again?
+OK,
+OK,
+yeah,
+Prakash Kisho.
+Uh,
+sir,
+I have a question.
+Uh,
+in the next example you have 2 x 2 + 1 or something like that,
+right,
+the function.
+How do you,
+how do you know that because as a human
+being it's pretty hard to model those functions,
+right?
+Yeah,
+and uh how do we know whether it's in a regression or not?
+How that's kind of baffles me.
+Yeah,
+it's coming now,
+coming now that Prakesh,
+OK,
+yeah,
+Ramesh.
+Yeah,
+I see this 2 x 2 + 1.
+You are told something,
+but I didn't get it earlier,
+so I didn't say anything.
+I said equation is 2 x + 1.
+Yeah,
+but
+no,
+no,
+about
+formulating this equation.
+So we are giving input
+and output.
+So input is how much?
+0,
+output is 1.
+Input is 13293,
+19,
+433.
+What is 5?
+So this is input I'm giving output.
+Function is predicting what is next,
+right?
+OK,
+so the equation is um formulated by the
+system,
+algorithm,
+not we.
+No,
+we don't do.
+We do then it's a traditional
+programming,
+right?
+Oh yeah,
+OK.
+Thank you.
+I got an impression we need to have,
+know that.
+No need,
+no need,
+no need,
+no need,
+no.
+OK.
+OK,
+so that's what,
+when,
+how do you,
+when did it make it difficult,
+like when you have numbers are uncertain,
+for example,
+if you take this example,
+the number of uncertain,
+right,
+we don't know what is the next number to.
+So in that situation we need to get the
+difficult for a person to understand and predict the
+next.
+Sometimes what happens,
+there is a missing values are there,
+then we cannot identify that even if you identify the missing values,
+we cannot predict.
+At that time,
+algorithm also will make the errors.
+So
+like
+sometimes we have
+not only like
+single single dimension,
+we have a two dimensional 0.3 dimensional,
+100 dimensional points also available,
+right?
+So at that time algorithm will take care of those things instead
+of as a human we cannot take care of those things,
+right?
+Yeah,
+Viera,
+go ahead.
+What's the question?
+Hi sir.
+So,
+so I,
+I guess at some point you said that
+uh these algorithms
+can give our,
+uh,
+there is a chance that uh 90% accuracy would be there,
+I guess at some point,
+right?
+So,
+so how would we know that.
+Uh,
+this algorithm is failing as in for that 10%.
+I know that we,
+the first portion is
+we're trying to get the result,
+uh,
+and,
+uh,
+based we,
+we are giving input and we have output
+and,
+uh,
+based on that we are getting that function,
+right?
+Uh,
+I guess,
+uh,
+you see,
+I said LR.
+score input and output.
+I got how much
+1 means 100% accurate,
+correct.
+OK,
+so we'll see here
+if
+we'll see
+if the model is not doing good,
+then we need to go back to the data.
+We need to go back to the change the algorithm,
+all those things,
+all those things we'll discuss in coming sessions.
+OK,
+OK,
+OK,
+not today.
+Today is just intro,
+yeah,
+yeah,
+yeah,
+sure,
+some terminology you need to understand,
+yeah,
+OK,
+so.
+Innovation
+Yeah,
+uh,
+sorry,
+I was speaking on.
+So,
+quick question,
+but
+can we,
+so now the linear algebra will take care of,
+uh,
+you know,
+uh,
+formulating that,
+uh,
+2 x score plus 1,
+that system,
+no.
+So if some reason,
+you know that,
+uh,
+you know,
+uh,
+the score is very less,
+is there any engineering
+what kind of
+formula it is,
+uh,
+applied?
+No,
+no need for reverse engineering.
+Every algorithm description is there.
+You need to read the description of algorithm.
+It's open source completely.
+OK,
+so we have to go back and read that description,
+yeah,
+corrected or any score to,
+to improve the score better,
+correct?
+Exactly.
+So that is featuring and I think we'll discuss in coming sessions.
+Thank you.
+Which library will the machine use to get these functions?
+It is C
+scale on,
+right?
+Come on.
+Let's kill him.
+Yeah,
+go ahead,
+uh,
+Balamudli.
+Yeah,
+sir.
+Um,
+so I just have this,
+uh,
+note.
+Um,
+so you give the input and you give the output,
+but how does,
+uh,
+the machine determine the function?
+Uh,
+what,
+what makes it determine the function,
+uh.
+It is the math behind that,
+right?
+It is forming a line equation it is looking at,
+and then it is deriving the slope and intercept,
+and that is forming.
+That's it.
+Mhm.
+Background,
+whatever I did in this notebook,
+right,
+and the whiteboard,
+it is doing itself.
+This is all these things.
+OK.
+Yeah.
+So that
+should,
+I think done.
+Once you have done your question,
+please,
+uh,
+lower your hands,
+Sheetel.
+Yeah,
+um,
+so here we had like sufficient data in each example that we took,
+but when the data is less,
+you said we gen I mean,
+it generates synthetic data.
+That's the incoming sessions we discuss with
+today just terminology we need to understand.
+OK,
+OK.
+In depth,
+like how we are going to solve,
+what is the score,
+everything
+you have precision,
+recall and F1 score,
+all those things in coming sessions we'll discuss.
+Today's session is just to understand introduction to AIML.
+That's it.
+How demystify.
+So don't worry,
+all those things Hanson will do it in coming sessions,
+OK.
+Yeah,
+sure.
+Thank you.
+Welcome,
+Sandeep.
+So please
+uh restrict your question to today's session only.
+So what are the questions related?
+So coming to
+feature engineering part,
+how we determine all those things in coming session,
+you'll see a lot of sessions out there,
+right?
+One by one session,
+we'll see.
+Yeah,
+so we are reading two terms that is machine learning and deep learning.
+So I was just curious,
+what is the difference between those two.
+The machine
+learning,
+uh,
+like,
+you know,
+it understands the pattern by giving us simple numerical examples.
+Deep learning is mimicking the human brain.
+It is a biological neuron,
+uh,
+which can,
+you know,
+what do you say,
+uh,
+understand the pattern from the images,
+video,
+audio also.
+There's a basic difference only.
+OK,
+OK.
+OK,
+now
+that uh somebody who is that uh
+If
+Kamal questions are different,
+entirely different,
+Kamal questions are there,
+OK,
+Kamal.
+If everyone uses SKLR,
+what does a good ML?
+So the good AM engineer one
+who understands which is the best algorithm is from SKLR,
+right?
+So we're using the less resources and giving the best precision,
+OK?
+That's what.
+And he's the one who is going to understand how to improve the features and data.
+Correct?
+Data engineer is giving you raw data,
+converting into features,
+but your responsibility is there.
+So,
+OK,
+so in the example of bank,
+bank provided historical data,
+we build a model.
+How do you validate the model is accurate?
+So just have given right LR score,
+that way we'll check
+with unseen data
+generally.
+OK.
+So generally what happens is in industry what we do is
+Let me explain to you
+For example,
+I have some data X X1,
+X2,
+and Y.
+Let us say total 100 samples I have.
+So out of 100 samples,
+we split this into 80/20,
+for example,
+80 samples 20.
+So this 80 I use for training,
+this 20 I use for testing.
+That means what for the model
+I'm going to use,
+for example,
+this right,
+so x1 x2.
+X1 x2
+and this y.
+So how much x1 x2 I use?
+80% of the x1 x2,
+80% of the y.
+I'll get the function
+correct.
+Now I kept 20% aside.
+So for 20% x1 x2,
+I know the answers.
+Agree?
+Just give me a thumb.
+For the 20 persons,
+we know the answers.
+Give me a thumb.
+OK.
+So now what we do is,
+uh,
+what are the function we got it.
+Now,
+this
+20
+inputs will give it to the function.
+Function,
+we get the output,
+correct?
+I have an output from the function.
+I have already
+predefined outputs.
+I'll compare these two.
+This will give us the score.
+How much out of
+20,
+all the 20s matching,
+we say 100% accurate.
+If 10 is matching,
+we say model is 50% accurate.
+Understood.
+Yes,
+professor,
+yeah,
+that's
+80/20.
+I got that,
+got it,
+yeah,
+perfect.
+Uh,
+so I have on top of that questions.
+Uh,
+just let me finish with Rahul.
+I'll take it up.
+You raise the hand first,
+OK?
+Yeah,
+just,
+just one quick question.
+I think it might be answered in the next,
+uh,
+next sessions,
+but,
+uh,
+uh,
+the data prep
+data preparation is a very important step which I understand,
+um.
+So
+do we use AI in the data preparation also,
+data collection also,
+or it is all manual or people collect the data
+because I see we do manual
+when it comes to generating AI at that time we use the generator AI,
+OK.
+OK.
+Presently it is manual.
+Using pandas,
+we do the data preparation.
+OK.
+OK.
+Yeah,
+next one.
+Somebody,
+no,
+no,
+let him first.
+Who is there?
+Somebody just unmuted,
+right?
+Let him go.
+Who is that?
+Somebody admitted and I said next yeah yeah sorry.
+So I'm saying that on top of the continuation of that previous question,
+so we are not uh selecting the uh which uh
+uh
+uh algorithm will be
+it is system only means a uh
+uh a uh regression no
+no
+no sneha
+snehalkumar we need to select the algorithm,
+OK,
+then we find the accuracy with the algorithm.
+So in the case of this one.
+I identified how much score I got it
+100%.
+I got it,
+right?
+That means this is the best algorithm,
+correct?
+OK.
+So,
+as a data engineer or ML engineer,
+you have to identify the algorithm first to check it.
+And for that also,
+nowadays,
+there's a latest technique we call it as a ML flow.
+So just create object of ML flow.
+OK.
+So it is going to
+take 10 algorithms,
+for example.
+How many you want to define,
+it will take 10 algorithms.
+Then out of 10,
+it is going to create a table,
+which,
+which is the best algorithm you can choose.
+Understood?
+OK,
+so after selecting the algorithm,
+but which equation is fitting.
+That is don't need to worry about.
+We don't see the equations now.
+We see the predict only,
+OK.
+The equation is just to make you understand how things are working.
+I did it,
+but at the same time we don't see the equation.
+We don't need equation.
+We need only predict function,
+OK,
+OK.
+So we cannot change the equation,
+but we can only,
+uh,
+if
+visually score is not,
+uh,
+up to the mark,
+change the algorithm,
+change the algorithm.
+OK,
+fine,
+got it.
+If you want to change the
+equation,
+you have to write by yourself complete algorithm,
+new one.
+OK,
+got it.
+Yeah.
+Vanish
+Yeah,
+this,
+uh,
+80/20,
+as I understand,
+80% this is in coming sessions we'll discuss 80/20.
+OK,
+thank you.
+What is 80/20?
+What is 60/40,
+all those things,
+OK,
+training and testing is great.
+Don't worry.
+Thank you.
+Nihali,
+uh,
+so you were mentioning that like we get an output out of the function like here in,
+in the,
+in the,
+uh,
+drawing that you have,
+uh,
+did,
+right?
+So
+yeah,
+what are we comparing against it like,
+um,
+there
+and how were we saying 100%.
+Because I said I kept some 20% of the data aside,
+I didn't use it in the training,
+right?
+So I use that 20 inputs.
+I'll get the answer for these 20 inputs.
+I have the answers,
+right?
+Then I'll compare those answers,
+those answers with the,
+uh,
+more,
+uh,
+with the date,
+uh,
+with the output that you have used to generate the
+exactly.
+Makes sense.
+And these core and predict functions are the key functions to uh
+validate our results.
+Yes,
+exactly.
+Is it for only for
+this linear edition model or like,
+uh,
+no,
+for every algorithm fit.
+Uh,
+predict and score 3 functions out there.
+Makes sense.
+OK,
+yeah,
+Sunil.
+OK,
+uh,
+what's the industry standard like a good score,
+right?
+So say let's say if I get 70 or
+that,
+that's my standard to take,
+OK,
+my all item is at a certain level,
+or I said Sunil these things like how much we take incoming session we'll discuss,
+right?
+This is an example I told.
+Yeah,
+thank you.
+Yeah,
+Balamurli.
+So,
+uh,
+maybe,
+uh,
+yeah,
+so,
+um,
+when we,
+when the prediction is not correct,
+uh,
+we have to change the function,
+right?
+So we need to have a knowledge
+we don't change the function,
+we change the algorithm,
+uh-huh,
+OK,
+we just change the algorithm,
+that's it.
+We,
+we don't have anything to change the
+function,
+OK.
+But uh even to change the algorithm,
+we need to have a knowledge of which algorithm to choose,
+right?
+That's what I said we learn every day.
+Today in the sessions we learn all the algorithms.
+OK.
+Yeah.
+Joy.
+Yeah,
+hello sir.
+So you mentioned about these are the predefined algorithms
+which is that in that uh SKID learning.
+So suppose,
+uh,
+that those algorithms are not fitting,
+so we can
+write another our,
+uh,
+manual.
+We can write some algorithm,
+correct?
+Generally industry,
+no joti,
+nobody will write it,
+OK?
+They'll go with the deep learning.
+Uh-huh.
+OK.
+Yeah,
+so,
+um,
+OK,
+deep learning.
+So in that,
+uh,
+complex problems can be solved by deep learning when
+deep learning is also not something you have a generator
+generation,
+then you go generate AI,
+OK.
+OK.
+OK,
+perfect.
+OK.
+Thank you.
+Next,
+Satish
+Uh,
+hi sir.
+So,
+uh,
+you,
+as you mentioned,
+right,
+so when we're selecting any algorithm,
+we will just go with the predict,
+right?
+So if,
+if the score is the same between the two algorithms,
+like what,
+what we next look into like which,
+which is the best one to use it.
+We'll see the resource utilization,
+Saish,
+OK?
+How much
+computational cost we'll see,
+OK.
+OK,
+so that,
+uh,
+we will,
+we will be understanding future lectures,
+yes,
+in coming sessions.
+So can you is never algorithm at that time we'll see
+why this algorithm we don't use sometimes,
+OK.
+OK,
+got it.
+OK,
+thanks.
+Amit
+Yeah,
+all these algorithms,
+uh,
+they are part of this SKLA
+or,
+um,
+there are
+packages
+all the classical machine learning is SKLA.
+Then you have deep learning is,
+uh,
+frameworks like transformers are there,
+and,
+uh,
+Keras and,
+uh,
+Pyto
+we use it,
+OK.
+OK,
+and the,
+the planning,
+uh,
+we use,
+uh,
+like in the same Python
+we are using the Python Python only,
+yeah,
+Python,
+but framework is different.
+Keras and Pytouch.
+OK,
+OK,
+yeah,
+thank you.
+You're welcome.
+OK,
+good.
+Everyone is good.
+OK.
+It's Amit,
+I think I have answered your question,
+Amit,
+right?
+OK,
+so we'll take a break now.
+It is 10:30
+and uh we'll be back by
+20 minutes break,
+uh,
+around 10:40,
+OK.
+Uh,
+professor,
+I have a quick question.
+Uh,
+Karas,
+can you please,
+uh,
+type here,
+misspell it.
+Keras,
+yeah,
+yeah,
+I have written
+10:40 keras.
+Thank you.
+OK.
+So we'll take a break and we'll be back by 10:40.
+Yes,
+hi Rama.
+What is the question?
+Yeah,
+just one small clarification,
+um.
+We just saw an example where the formula was 2 x2 + 1,
+right?
+And um
+But that linear regression model
+is not predicting it correctly.
+Like that formula is not coming out correctly,
+so
+that,
+that means that there is some other model that needs to be applied for it,
+right?
+OK,
+thank
+you.
+Yeah,
+uh,
+I have.
+So will deep learning,
+uh,
+works well with unstructured data.
+Come again.
+So will deep learning,
+uh,
+works well with unstructured data rather than machine.
+Yes,
+so machine learning,
+uh,
+will not work very
+well with unstructured data.
+No,
+it won't work with,
+uh,
+unstructured data.
+So that's the reason we're having
+deep learning for that.
+OK,
+I got it.
+So when the function is complex or
+unknown,
+so for example,
+somebody simple one variable is there,
+you will get something like this.
+Yes,
+Prakash,
+what is the question?
+So the question is,
+if deep learning is so powerful,
+then why are we learning and learning with machine learning then?
+For,
+uh,
+for everything,
+we cannot put deep learning,
+right?
+So,
+if you're not a complicated problem,
+resource utilization is very important,
+Prakash,
+correct?
+Deep learning processing will take some time,
+it needs a GPU.
+So the classical machine learning works with CPU,
+OK.
+OK.
+OK.
+Got it.
+OK.
+Thank you.
+And uh generative is more powerful,
+but the problem is the tokens is the problem,
+right?
+Every problem we cannot solve that.
+That's the way.
+So one by one,
+we need to,
+like,
+you know,
+as a forward deployed engineer,
+we have to understand which one is best.
+So,
+end of the day,
+what it is going to find,
+it is going to find the best parameter.
+That is the main idea of the
+any regression algorithms.
+OK.
+Now we have
+Different kinds of learning.
+One is called as a
+supervised learning.
+Supervised learning means
+we have X1 X2,
+and the prediction function is there.
+That is called as a supervised learning.
+That means
+output what we need to get if it is there,
+our target output is there,
+or we have a target,
+we say this is the
+supervised learning.
+Again,
+in supervised learning,
+there are two kinds of supervised learning.
+One is the regression.
+Second is the classification.
+So that means
+For example,
+the target column Y
+is something like 2030,
+1211,
+some numbers are there.
+So,
+if the data is these numbers,
+we call it as a target column is continuous.
+We call it as a regression problem.
+If the target column,
+we have something like yes or no,
+0 or 1,
+that particular person is prone to diabetic,
+yes or no.
+Particular person is,
+uh,
+you know,
+uh,
+given flower is cetosa virginica,
+something like that,
+or shall we grant him loan,
+yes or no.
+So that kind of things,
+this is called as a discrete.
+If the output variable is discrete,
+we call it as a classification problem.
+If
+the output variable is continuous,
+we call it as a regression problem.
+Now,
+in this problem,
+if you look into this particular data which I took it,
+NPR of 13579,
+right?
+So
+the output is what
+we have a continuous 13579,
+1011 something continuous is there.
+So that is the reason it is a regression problem,
+and we are going to use a linear regression,
+poly regression,
+uh,
+like,
+you know,
+support vector regression,
+patientry regressor,
+like different regression algorithms we are going to use.
+Now,
+coming to the classification means,
+for example,
+here,
+instead of this,
+I have output,
+for example.
+Input
+is
+NP.RF.
+One
+Comma
+Oh
+3.
+45 something.
+Now,
+output is.
+NP.
+array of.
+One
+is odd.
+Then
+even
+Then
+art.
+Then
+Even
+Right?
+So,
+this kind of output,
+if you have,
+this is called as a
+classification.
+What do we call it?
+Classification.
+What about this one?
+Output is we call it a.
+Regulation
+And as we have an output,
+what do we call this too?
+We call them as a
+supervised learning,
+we call it.
+This is also
+Supervised learning.
+OK,
+then we have unsupervised learning.
+What is that?
+Unsupervised learning in the sense,
+we have X1 and X2.
+We don't have any
+output column.
+Just we have input features are there.
+So depending upon the features,
+what we do,
+we are going to group them.
+OK.
+So,
+for example,
+when I say
+123456789,
+how do you group them?
+All the odd numbers as one group
+and you can create all the even numbers as
+another group,
+right?
+This way we can do it.
+So this kind of
+uh data,
+if you are
+taking without any
+output,
+we call it as a unsupervised learning,
+we call it.
+So supervised learning means there's a target column existing.
+Unsupervised learning means there is no target column.
+OK.
+Now let us go to the slides.
+So we have given set of numbers,
+something 7,
+26,
+1711,
+25,
+32,
+58,
+19.
+Now I said partition into two sets.
+So how do you partition?
+You can
+different ways you can do the partition,
+right?
+All odd numbers in one place or even number in one place,
+or all single digits are in one place,
+or two digit numbers are another place,
+you can keep it.
+So these kind of examples we call it as a unsupervised learning
+examples we call it,
+OK.
+So
+For example,
+supervised learning means what?
+There is a target column.
+So for example,
+if you have a target column,
+then we call it as a
+supervised learning,
+we call it.
+So for example,
+I want to find whether the person is having
+anemia,
+yes or no,
+that kind of problem statements,
+we call it as a
+supervised learning.
+So who gives these examples?
+The data
+will give the examples.
+Uh,
+so interpretations are supervised signals we call it.
+What do you mean by that?
+So for example,
+If you have input as x1
+x2,
+then Y?
+Who is going to give the form linear regression is going to say that.
+For example,
+W1 times X2,
+W2 times X2 plus
+C,
+you can write it.
+R you can write instead of W,
+you can write M1 times X1,
+M2 times X2 plus C,
+you can write it.
+So these two we call it as a.
+Supervised learning,
+we call it.
+So who is going to find this optimal,
+that W value,
+who is going to find
+our
+algorithm,
+linear regression algorithm,
+logistic regression algorithm.
+Those algorithms will find the optimal parameters,
+OK?
+So,
+how do we know that that algorithm is working fine?
+So we are going to get either with the score we can see,
+or we can use the prediction function to check.
+OK?
+Now,
+I have given another example of the classification example.
+Classification example in the sense,
+let me
+take an example.
+So for example,
+I have
+age of the person
+and uh SIBL score.
+And
+own house?
+Yes or no?
+And then
+shall we grant him loan?
+Granting
+Loan.
+So,
+age is something like 25,
+civil score is 6,
+own house,
+yes.
+This means,
+for example,
+say 1,
+OK?
+Grant him loan,
+yes.
+1 means
+Yes,
+0 means no.
+For example,
+age is 30,
+civil score is 3,
+own house,
+no,
+0.
+For example,
+age 35,
+civil score is 4,
+own house,
+yes,
+0.
+For example,
+36,
+civil score is 7,
+and own house,
+yes,
+it is 1.
+So this one we can classify means first we put into the
+Then we draw the line separation.
+This is called as a
+classification we call it.
+So same linear regression kind of thing.
+We draw the line to separate them.
+So above the line we call belongs to one line,
+11 class below the line we say belongs to
+another class classification.
+So for that,
+we have different classification algorithms are there.
+Like one of the classification of the algorithm we can use is
+logistic regression.
+But in coming session,
+we'll see that step by step,
+each and every algorithm,
+we'll see that.
+OK?
+Only I'll,
+you need to understand what is supervised learning classification.
+Classification in the sense,
+the target column consists of
+some discrete variable,
+yes or no or something,
+we call it as a
+supervised.
+Classification.
+Uh
+Question.
+Everything will convert into tokens in deep learning.
+So,
+so it is extensive than machine learning,
+I believe.
+No,
+no.
+Deep learning doesn't have any tokens,
+Sarun.
+Deep learning have features,
+OK?
+And that will be on the GPU.
+And uh for a GPU holding a GPU is very costly nowadays,
+data center,
+OK?
+So,
+generative tokens.
+So there is
+no accuracy measure in unsupervised learning there.
+Yeah,
+there is no accuracy measures,
+but there is a
+clusters we call it,
+how many clusters.
+OK.
+OK.
+We'll go to the next one.
+Um
+OK.
+So feature extraction,
+in coming session,
+I told you,
+like we are going to discuss in detail of the feature extraction.
+But feature extraction in the sense what,
+like I gave you in a simple example,
+right?
+When you want to predict what is the salary of the
+person,
+so what you are taking,
+you are taking age of the person,
+his uh,
+you know,
+qualification you are taking,
+and experience you are taking,
+and you are predicting the
+salary.
+So in this,
+you need only qualification experience is the vital,
+right?
+So that is called as a
+feature extraction,
+we call it.
+So from a bunch of features,
+we are selecting
+some of the features.
+So images also do the same thing.
+So how the feature extraction happens in coming sessions,
+we'll see that,
+OK?
+So,
+end of the day,
+once you get the features from
+an image or from the data or something,
+what is the function?
+Function is from that image,
+you are going to see if you are getting 3 features.
+For example,
+I have the age of the person,
+qualification I have,
+and experience I have.
+I need to predict the salary.
+So how many
+features we have 3 features.
+So then
+function will be a combination of these features that is
+x1 times of some age.
+Uh,
+sorry,
+H times of uh M1
+and M2 times of qualification,
+M3 times of
+experience,
+plus
+1
+intercept,
+right?
+This is what the equation.
+So equation is the combination of the features.
+So that may be a classification or that may be a regression.
+End of the day,
+the,
+what do you call the function is going to give the combination of all the features,
+OK?
+Now,
+in traditional programming,
+we have a data and the program,
+and then it is going to output.
+Whereas in uh
+we have
+in machine learning,
+we have the data as an input,
+output we have.
+And here on the computer,
+we are going to put an algorithm,
+linear regression algorithm,
+and then it is going to
+generate the program.
+This program in our terminology,
+what do we call?
+We call it as a function.
+Who is generating the function?
+Our algorithm is generating the function.
+OK.
+OK.
+Any questions here before closing this?
+Now you understand the terminology.
+What is classical machine learning,
+traditional programming,
+generative AI,
+deep learning,
+you understand,
+OK.
+Now,
+any questions,
+please raise your hands.
+I'll take up and then we'll go to the next part.
+Ramesh.
+Yeah,
+suppose we give some so-called stupid output as an examples,
+OK,
+I mean in the pattern,
+OK,
+we give you an input and then output
+something random.
+So will the
+ML try to find a,
+find an algorithm?
+If that stupid
+output is having some pattern,
+it can rummish,
+OK?
+If it doesn't have,
+then it cannot give you.
+So accuracy will go down by saying,
+10% something like that.
+How much you can understand that pattern it can show.
+OK,
+OK,
+thank you.
+Yeah,
+Prakash.
+Uh,
+sir,
+I have a question.
+So,
+uh,
+how do we,
+uh,
+what is the difference between an unsupervised or supervised,
+uh,
+thing?
+I don't understand
+that
+unsupervised means there is no target,
+Prakash.
+OK.
+So for example,
+I entered into the classroom
+and I divided the class
+according to the height,
+for example,
+two groups,
+uh,
+according to the technology I divided.
+That is called as unsupervised learning,
+OK.
+Supervised learning means everybody have features and the output is there.
+So according to the
+output,
+I will see that supervised learning.
+In the output,
+if you have continuous values,
+we call it as a
+uh regression.
+If the discrete values,
+we call it as a
+classification.
+So can I just draw an example?
+Let's say in the case of supervised learning,
+right?
+Let's say I say I give a bunch of images.
+I call certain images as dogs and
+certain images cats,
+right?
+I've told the system,
+right,
+this is dogs and cats.
+So in the case of unsupervised learning,
+uh,
+I will not say that whether it's a dog or a cat,
+is it?
+I just give
+group by features,
+yeah.
+System learns to how to differentiate between those two.
+OK.
+Yeah,
+perfect.
+Nihali
+Um,
+so,
+actually,
+uh,
+in the supervised learning,
+uh,
+right,
+we,
+uh,
+um,
+we have,
+uh,
+like in both supervised and unsupervised,
+we have different models that are there,
+right?
+Like,
+uh,
+so how do we know,
+like,
+in the,
+uh,
+linear model,
+we have multiple linear models and all.
+So,
+but we were using,
+uh,
+in the examples that we were practicing,
+we were using the linear regression model.
+Uh,
+so,
+like,
+is,
+how,
+how do,
+like,
+how do we get hold of those models or how,
+like,
+you know,
+um,
+Because there's so many models.
+So
+in the top models we are going to discuss in the classroom,
+Nihali
+like dyentry support vector machine,
+KNSniver XG boost,
+those algorithms we are going to uh
+discuss in everyday class.
+OK,
+so basically
+when we discuss the algorithms we are gonna learn like in what kind of scenarios
+can we apply those algorithms,
+right?
+Exactly,
+exactly.
+Makes sense.
+And these are the ones which,
+which will fit in most of the use cases in the real world and uh
+OK,
+got you.
+Yeah.
+Jennifer.
+Jennifer,
+hello.
+Yeah.
+Can you,
+uh,
+so in both the cases,
+uh,
+yeah,
+in both the cases of,
+uh,
+supervised learning and unsupervised learning,
+our objective is to,
+the objective of the model is to arrive at the function.
+So in one case we have outputs,
+in another case,
+we don't have the outputs.
+It extracts the features by itself.
+Yes.
+OK,
+so how does this,
+uh,
+regression and classification,
+there are two types of problems.
+That could exist in either supervised learning or unsupervised learning.
+No,
+only in supervised learning.
+Only in supervised
+learning we have
+regression and classification
+classification.
+For example,
+minimum temperature is given.
+You want to find maximum temperature.
+We call it as a regressional goal.
+OK,
+I,
+I mean,
+I understand what a regression problem is and what a classification problem is,
+uh,
+but why is that,
+uh,
+like only in supervised learning we have this,
+uh,
+thing
+because the target variable is there if I don't have a target variable then.
+OK.
+OK,
+OK,
+so this categorization is based on the target,
+uh,
+yeah,
+yeah,
+OK,
+fine,
+yeah,
+yeah,
+I get it.
+Thank you,
+Kumar.
+Yeah,
+uh,
+yes,
+so,
+uh,
+you mentioned that we'll be going through the,
+uh,
+the popular algorithms in,
+in this class,
+but,
+uh,
+just wanted to understand,
+uh,
+what are the sources to,
+to look,
+look at,
+uh,
+in terms of whatever new algorithms are coming up or new improvements are coming up.
+Like Scalon is the community,
+so open source community.
+Scalon is the one where you can see.
+OK,
+OK,
+yeah,
+any,
+any other,
+uh,
+places where we can look at the new papers,
+new,
+uh,
+uh,
+no,
+Scale is the source for the developers,
+OK,
+but if you want to be part of a community,
+you can go with a Google Scholar,
+Kaggle,
+data
+find data mining.
+Those,
+uh,
+one of some
+open source communities are available.
+You can be a part of that,
+OK,
+OK.
+And there we will get to know the new,
+new algorithms which are coming out,
+yeah,
+OK,
+Pranti Kumar.
+Hi,
+sir.
+Uh,
+when we talk about,
+uh,
+supervised and unsupervised learning,
+is there any relationship with the structured data and structured data,
+labeled data,
+unlabeled data?
+Where would we use supervised?
+Say again Kranti,
+what did you say?
+Yeah,
+we are talking about supervised or unsupervised learning,
+right?
+So is there any relationship with structured data,
+unstructured data,
+labeled data,
+unlabeled data?
+We hear these terms,
+right?
+Where do we
+unlabeled data,
+unlabeled data means,
+uh,
+for example,
+you don't have,
+uh,
+output that is unlabeled data.
+If you have an output that's called as a labeled data,
+so the labeled data is called as supervised learning,
+unlabeled data is called as unsupervised learning.
+OK,
+so the output,
+uh,
+is labeled or unlabeled depends on super
+structure unstructured.
+Any relationship with super
+structure means like you have something like 12345
+in a tabular format.
+Unstructured means you have a sound,
+video,
+images.
+All those things are unstructured,
+right?
+Yeah.
+Yeah
+So,
+uh,
+do then where do we use,
+uh,
+supervised and unsupervised in case of structure and?
+Is there any relationship?
+You know,
+for example,
+if you want to just know somebody told the example,
+right?
+If you have a classify the dog and cat,
+the label is there that is supervised.
+If there is no label,
+just you are giving an image,
+a bunch of images and asking the algorithm.
+So algorithm is
+without labels.
+It is grouping them by their features,
+right?
+That is called as a supervised learning.
+Good.
+Thanks.
+Welcome,
+Sudarin.
+Not a question though,
+but uh
+I feel like it would be better if you can
+give on some real-time example and critical notes in the collab
+uh wait for the supervisor.
+No,
+no,
+that's actually today we are not supposed to write the code because
+today is only just interaction terminology we need to understand.
+But however,
+we'll be giving
+example
+for those correct,
+getting,
+yeah,
+incoming sessions.
+I'll show you because you will get everybody
+will get confused with all the code samples
+in a one shot we cannot give everything right,
+so people will get confused.
+So we have the sessions where we discuss unsupervised learning,
+supervised learning,
+everything.
+Step by step we'll go.
+OK.
+So,
+Prakash,
+go ahead.
+Uh,
+sir,
+uh,
+you,
+you give an example of that,
+uh,
+uh,
+for example,
+the odd number 2 x + 1,
+right,
+using some model
+and use needed regression to compute it,
+right?
+It was labeled data
+you already found something,
+right?
+And on the contrary,
+the cat and the dog images,
+right,
+even if it's labeled,
+can we,
+the question is,
+can the regular machine learning be used for cats and dogs classification also,
+like just,
+just
+no,
+we cannot.
+OK,
+only for numerical data you can use uh machine
+OK.
+Yeah.
+Aishwar
+What are the questions,
+Saisha
+Sunil,
+go ahead.
+Hey,
+uh,
+so,
+so
+is there something,
+so in,
+in real time,
+right,
+you learn something to trial and error method,
+right?
+Say for example if I'm trying to
+check two types of water,
+right,
+I pour on my hand and say,
+OK,
+one is hot and one is cold,
+right?
+So you try something.
+Yeah,
+yeah.
+classification.
+So that is still,
+but,
+but I don't know the classification that I'm just testing two waters.
+I don't know whether it's hot or cold,
+but I'm trying to,
+but you are giving sample data it's name
+to the temperature.
+OK,
+so you are giving a thermostat.
+If the temperature is greater than this,
+you are writing hot.
+Less than this,
+you are saying,
+uh,
+cold,
+right?
+So when you give a temperature,
+uh,
+thermostat value,
+it will say it's hot or cold.
+It won't put the hand in that,
+right?
+It's going to take the sensor values like that.
+It is possible,
+right?
+OK.
+OK.
+Uh,
+where is unsupervised learning useful
+from Paul?
+Unsupervised learning is useful when you have,
+for example,
+Prime and non-Prime customers you want to separate them.
+Generally in Netflix,
+what happens is when the Prime member logs in,
+you will see the different movies
+and the non-Prime members log in different movies,
+similar to the Amazon.in.
+A Prime member logs in,
+you'll see different movies.
+A non-Prime member logs in to different movies.
+That is where we use the
+unsupervised learning,
+OK?
+That's clustering,
+clustering of all,
+uh,
+Prime members,
+or clustering of non-Prime members.
+So along with the inputs we also say how many clusters are we looking for that.
+OK.
+Along with the inputs we are not going to give how many clusters,
+but in algorithm you can define how many clusters you want to make it.
+Algorithm will understand the pattern according to that.
+It's going to define the patterns.
+For example,
+we have a dog and cat.
+Images group and you can say number of clusters is 2.
+It will cluster all the cat as 1,
+as the dog as 1.
+For example,
+if you are writing 4,
+it can take all the dogs as 1,
+cat as 1,
+big dogs as 1,
+casma
+big cats or something
+that it can understand the pattern.
+It can do it,
+OK?
+That is
+clusters it can create.
+Uh,
+today we have a lab session.
+Are we going to have hands-on practical session?
+Yes,
+after this session.
+Uh,
+yeah,
+so it will become supervised then.
+Yes.
+So when you have inputs and outputs are given,
+outputs are given,
+then it is a supervised learning,
+OK?
+So then we have
+another one in coming sessions we'll discuss,
+uh,
+semi-supervised.
+Semi-supervised means after clustering,
+they're going to give the names,
+OK?
+When we choose the number of clusters,
+the algorithm needs an input command,
+how depth it needs to classify,
+OK?
+That's not the output,
+OK?
+It is just to
+depth of it.
+So coming to these questions is the lab session is mandatory.
+You need to ask with the support team,
+OK?
+OK.
+So now we have seen demystifying ML.
+We are going to look into the next part.
+He's called us.
+Can you please explain the difference between
+Genaya and deep learning with some examples?
+Santosh incoming sessions,
+you can see.
+So simple example,
+Genaya,
+this is one example,
+right?
+So this is
+an example of a deep learning.
+You give the images with the label,
+right?
+Now coming to the deep learning,
+you will say,
+Create an image of
+Yeah.
+So this is,
+it's going to produce the data,
+right?
+It's not going to predict whether it is a cat or a dog,
+something like that.
+So that is a basic difference,
+OK?
+But in-depth incoming sessions,
+we'll see that.
+So today's session is
+just try to understand the basic terminology of what is machine learning.
+Classical machine learning.
+There is no traditional machine learning.
+Classical machine learning only.
+There is have a traditional programming,
+OK?
+That's what.
+Somebody asked like traditional machine learning and
+classical machine learning.
+It's only classical machine learning,
+OK?
+So now it draw the image.
+This is,
+this is what we call it as generating.
+It is by taking the prompt,
+it is generating something.
+We call it as generative AI.
+Prediction means by taking the features,
+it is going to,
+uh,
+like,
+you know,
+give the
+next features.
+OK.
+OK.
+So then we'll go with the next slide,
+continuing
+deeper look at machine learning,
+and then we'll talk about,
+OK.
+So a machine learning framework,
+how it is happening,
+first of all,
+once you get the function,
+that function is going to take the features of that particular
+inputs it is taking,
+then it is predicting the apple.
+Like for example,
+apple is there,
+tomato is there,
+cow.
+Here we are not giving the image here,
+we are giving the features of the image.
+So for example,
+I'm saying
+shape.
+Sphericity
+and size
+and the shape.
+So shape,
+sorry,
+shape
+already
+shape is circle
+and top a little bit,
+you know,
+like curve is there,
+and the sphericity is hard,
+for example,
+shape like,
+you know,
+size is small,
+then the label is
+apple.
+Tomato is very small,
+so the label is tomato.
+Cow is big,
+like shape is big,
+like
+the sparsity is high
+and size is big.
+We call it as a cow,
+something like that numerical value we are giving
+and then predicting the
+number.
+So these kind of predictions we call it as a machine learning just now we have seen,
+right?
+So in the machine learning what we are getting
+output is equal to FFX function we are getting
+where
+why is the output.
+Uh,
+F is the prediction function.
+X is the feature representation.
+So for example,
+01234,
+we got 13579,
+right?
+So this is the input and this is the
+output.
+Output I'm writing f of
+x,
+which is nothing but 2 x plus 1.
+Now,
+if,
+when I write 5,
+it is going to say 2 times 5 plus 1.
+How much you are getting?
+11 we are getting.
+So next number prediction for 5 is 11.
+So here,
+this Y is the output,
+F is the prediction function,
+X is one of the features,
+which feature I'm giving
+X I'm giving X is only one feature,
+right?
+Then it is going to give us the
+answer.
+So training means
+given a training set,
+we are going to create a prediction function
+to minimize the prediction error.
+So what we do.
+End of the day we need to minimize the prediction error.
+Testing is we are
+keeping some data that is never before seen
+that is called as a test example
+and then output is predicted on that.
+That is called as why is it called FFX,
+right?
+So
+where,
+for example,
+We can take some abstraction of some of the data.
+What is X and Y for the spam detection?
+X is the text.
+Y is the
+spam or not spam.
+What are X and Y for the image classification?
+X is the feature of the image.
+Y is the label,
+for example,
+cat,
+dog,
+or something like that.
+What are sentiment analysis?
+X is the text.
+Y is the
+positive sentiment,
+negative sentiment,
+or neutral sentiment something.
+What are X and Y for your problem?
+So anything you have to write X and Y
+for a particular problem you can insert.
+So what is the abstraction here?
+First we need to have a supervised learning.
+X and Y we need to have.
+Then we need to
+define our problem statement here,
+OK.
+So now,
+in this terminology,
+what are F and
+Y for the classification talks?
+Y is
+actually S is often a vector.
+We call it as a column matrix.
+And the Y can be 0 or 1,
+it's a binary,
+or it can be some multiclasses.
+For example,
+Setosa,
+Virginica,
+versicolor,
+something like that.
+It can be any number,
+OK?
+So,
+a number of features can depend upon what kind of problem statement you are taking.
+So for that,
+what you can do is,
+like,
+for example,
+if we needed data.
+You can go to
+there is one.
+We call it a UCI repository.
+Now you go to Iris.
+Download the Irish data.
+OK.
+So if you see here,
+it is a small classic data set from Fisher,
+one of the earliest known data sets used for evolution of classical methods.
+So it consists of how many features,
+4 features.
+How many instances?
+150 instances are there.
+And what kind of problem it is?
+Classification.
+So clearly it said it is a classification problem.
+How many features are there?
+Seal length,
+sepal width,
+petal length,
+petal widthine,
+the class.
+How many classes?
+We have 3 classes.
+So Satosa,
+versicolor,
+Virginica.
+So in US and Canada there are iris flowers,
+so they are something like this.
+So this is called the iris flower,
+OK?
+So depending upon the sepal length and sepal width,
+we call
+they classified into three categories,
+Satosa,
+versicolor,
+and virginica,
+OK?
+So this is,
+for example,
+this is the data sample.
+This is given.
+So when you open this data,
+So you can see here.
+Seper length,
+let us write down.
+Sapale
+Sapaw.
+Petal length,
+petal width,
+and then
+Which class it belongs to.
+This is the data which I have.
+OK.
+So this is Iris
+data we have.
+Clear.
+So how many classes do we have?
+50 sitosa flowers example.
+50
+Pericolor examples.
+50
+Virginica examples.
+Correct.
+OK.
+So,
+here you can understand.
+So,
+what is F here?
+F is the prediction function.
+X is
+Axis,
+sepal length,
+sepal width,
+petal length,
+petal width.
+This is a
+column matrix,
+OK?
+Then why is,
+what is the Y?
+Y is it can be binary 01 or it can be multi-class.
+In Y,
+how many we have now?
+Three classes Setosa,
+verticalor,
+and
+virginica.
+Three classes are there.
+Now,
+tell me,
+is it a classification problem or regression problem?
+Type into the
+classification
+classification problem.
+Perfect.
+Why?
+Because discrete variables,
+right?
+It is not continuous.
+We call it as a classification.
+Only 2 or 3 classes are there.
+We call it as a
+classification,
+whether it is a supervised learning or an unsupervised learning.
+Supervised,
+supervised.
+Why?
+Because we have a target column.
+Why is that,
+right?
+Now,
+uh,
+like,
+what is F?
+Really,
+it is given by the data,
+right?
+Who is the one?
+Data is giving us the f value.
+And then
+using that f value,
+it can be a linear equation,
+quadratic equation,
+polyregression,
+or it can be a classification or any problem.
+So,
+regression is what,
+just now I have given you examples,
+right?
+Regression is
+like predicting the
+next number is called as a regression.
+And uh predicting the time forecast means,
+for example,
+I want to predict what is the
+price of the share tomorrow.
+Today is the share.
+I'm going to predict what is the share price tomorrow.
+That is called as a time series problems.
+OK.
+Now we understand training and testing means what?
+So for example,
+if you have
+100 samples,
+we can do that.
+So let me take an example.
+I have
+X1,
+X2,
+X3,
+X4.
+Why?
+That means how many features I have now?
+4 features.
+These features I can say yes,
+this I can say why.
+No.
+We need to train the model.
+To train the model,
+we split the data.
+For example,
+we can split 80/20.
+If you have less amount of the data,
+a huge amount of the data,
+you can go with 80/20,
+or if you have a huge amount of the data,
+you can go with 70/30 also.
+But generally,
+thumb rule is mostly we go with 80 and 20 or
+8515 if you have more data that also will do it.
+Now,
+this all belongs to X,
+so I can write this as an X train.
+This all belongs to Y.
+I can say it is a Y train.
+Then
+I separated that this is the train part.
+This is the
+test part.
+So this I can say X test.
+This I can say
+Y test.
+Correct.
+Clear now?
+So,
+how many training examples do we have?
+80.
+How many testing examples do we have?
+20.
+So,
+we have 100
+samples.
+We are dividing them into training as 18
+and uh testing as 20.
+So generally what we do,
+we are going to take this 100,
+we shuffle them.
+We don't take in the sequence,
+we shuffle them,
+OK?
+So for shuffling,
+we use the term called as a random state we call it,
+you'll see that.
+OK.
+So let me
+take an example.
+It's not like that.
+It's a labeled data,
+unlabeled data,
+anything for luck.
+We take 80/20 is the thumb rule,
+or we can go with 30,
+60,
+40 also.
+Sometimes,
+sometimes if you have more data,
+they will go with 70,
+30 also,
+they'll go with.
+But the thumb rule is
+generally we go with the 80/20,
+OK.
+Yeah,
+sure.
+Thank you.
+OK.
+Now,
+let me take this data.
+I'll take the file first.
+So downloads
+in Iris.
+Iris.data.
+I
+do this.
+OK.
+No.
+I have the file.
+I restart the ATA.
+So what I will do now,
+I'll import all the required libraries,
+import.
+Pandas as speedy.
+Import
+number
+as
+NP.
+From
+a still learned.
+That
+linear underscore model.
+Import logistic
+regression.
+So now,
+we need to save data for
+this one in coming session,
+we get in detail.
+So just very simple.
+DF is equal,
+read underscore.
+TD.re_
+CSV
+What does the file mean?
+Iris.
+Now,
+df.head
+will give you.
+Top 5 samples.
+So sepal length,
+sepal width,
+petal length,
+petal width and
+class,
+correct?
+So for example,
+uh,
+here how many features we have
+X is this one.
+This is the Y.
+So
+let me just df.
+columns.
+They'll give me the name column names.
+So how many column names we have
+epal length,
+epal width,
+petal length,
+petal width,
+and class.
+So this pandas data frame you are going to get in the coming session
+just to make you understand training,
+testing,
+and,
+OK,
+even in the today's lab you'll see that,
+OK,
+hands on anyway.
+No
+I need to define X.
+X is what
+up to
+sepal length,
+sepal width,
+petal length,
+petal width comes to X,
+correct?
+Yes or no?
+This is the features,
+correct?
+Yes.
+Yes.
+So
+DF
+BFF
+Big budget
+Now why is it called DFR?
+What is leftover?
+Class.
+Sorry.
+Now when I say
+x
+shape,
+you can see.
+There are 150 samples with how many features?
+4 features.
+So there are 150,
+correct?
+Total,
+how many samples are there?
+Here,
+clearly it says there are
+150 samples
+with how many features?
+4 features.
+Data itself it is describing.
+Now why do shape,
+only one column
+with this how many?
+150 samples.
+OK,
+perfect.
+So now we can think like this.
+Here,
+how many we have?
+Totally,
+150 samples we have.
+80% of 150,
+how much?
+150 to 80%,
+00008 Pfizer.
+How much
+40
+81 8 + 4 12 120.
+150 into 20%.
+15 to
+30.
+So,
+120 samples in training,
+30 samples in testing,
+correct?
+Yes,
+give me a thumb.
+Yeah.
+120 30 years of gray.
+So now,
+I'll say for that splitting,
+we use one of the class called a
+rum scale.
+Modal selection,
+there is a train test split function.
+So I'll use that function now.
+How do we spell it now?
+Tell me,
+first of all,
+what I need.
+I need X train,
+then X test,
+right?
+X train followed by X test,
+Y train followed by Y test.
+X train we are selecting from where?
+From X.
+Y train we are selecting from where?
+Y.
+So we need to write
+x_train
+x_.
+Test
+it is selecting from.
+3_tes_spray.
+From where it is selecting from X.
+Then,
+comma.
+By underscore train.
+Then why underscore
+test.
+You're selecting from?
+Why?
+Then I said we need to shuffle the data.
+How do we shuffle?
+Just we write random underscore state is equal to sum 42.
+42 in the sense,
+it is going to shuffle how many times?
+42 times.
+Think like
+you have a box,
+OK?
+In that box,
+we have
+150 samples.
+Now,
+I am just shuffling the box like this 1234,
+and then I'm throwing it,
+right?
+So like that,
+how many times I'm shuffling?
+42 times I'm shuffling.
+OK?
+That is called as a tandem state.
+But
+Now,
+in the X-ray,
+how many samples we need to get X-ray?
+In extend and write in how many samples we need to get.
+120,120.
+So x
+dot
+shape,
+you'll see.
+112 we got it.
+Why you got 120?
+Why I got 12 actually I need to get 120 right.
+We didn't specify 18.
+What is the size,
+uh,
+so test the size I need to mention
+that 0.2.
+That means keep testing purpose 20% aside.
+Now it works,
+you see 124,
+OK.
+Then why train
+how much you'll get.
+120.
+Now it's test.
+30.
+Why test?
+30 samples,
+correct?
+OK.
+Now you understand,
+right?
+80% of 150,
+I kept it for the 3.
+Now,
+tell me,
+the problem is here,
+Irish settles are like that,
+right?
+So,
+three classes.
+Is it a classification or it is a regression?
+Classification is it
+classification.
+So I'll take one of the classification algorithm.
+From
+SKLarn.linear_model.
+In court,
+I use logistic regression.
+Name is regression,
+but it is a classification because it derived from the regression algorithm
+technique.
+That is the reason
+we call it as a
+now we say LG is equal.
+Logistic regression.
+Now,
+what we need to do,
+we need to use LGDAT fit.
+We say
+x_train.
+And Y_train.
+So we got the logistic regression function,
+correct?
+So once we get the logistic regression function,
+We need to predict,
+right?
+How do you predict LG
+Predict.
+For example,
+I'm taking the first one.
+How much first one?
+5.1,
+3.5,
+1.4,
+0.2.
+What is the class we need to get?
+Aristosa,
+correct?
+For this input.
+So let us test it.
+I got Iriitosa.
+OK.
+But what percentage it is correct,
+you can just write
+LG
+score.
+First we see the
+training score.
+Training
+By train
+So the training score is almost 97.5.
+Model is 97% accurate.
+It understood the pattern,
+97%.
+Clear?
+Yes.
+So
+if you just write down.
+In 200,
+you'll get 97.5% algorithm is accurate.
+So 97% is very good accuracy.
+We can go with a
+prediction.
+Color
+classification,
+do we need to encode Y before using it?
+That's what I said,
+stick to the
+terminology.
+No need to encode now,
+OK?
+So that is coming in the features,
+what is encoding and everything.
+Today,
+just a simple algorithm you need to see in today's class.
+Can we also use the function?
+No,
+we cannot use for every problem we cannot see the function which,
+OK.
+Yes,
+Mihir,
+go ahead with your question.
+Uh,
+so,
+just one question.
+So for sometimes even,
+uh,
+based on the model prediction,
+even if we are
+just copying the X values,
+is it possible that we can get some
+minor difference in the Y values?
+Yeah,
+definitely.
+Uh,
+so that is because of the whatever the fit model is giving,
+right,
+and,
+uh,
+one more thing,
+how do we assess that 97.5 is a good score?
+That is standard here.
+OK.
+A 197 is a good score for the production.
+So 97 is the
+No,
+above 90%.
+Anything above 90%
+good for production.
+OK,
+OK,
+thank you.
+Yeah.
+Because
+How does it determine the 97.5 accuracy,
+sir?
+Is it,
+did you use the test data to uh verify it?
+It is using that training only,
+right?
+So for example,
+if you want to get the test score,
+you have to say,
+X_test Y
+test actually it uses the confusion matrix
+from that it understand
+testing is 100% accurate.
+The question is,
+sir,
+uh,
+see you're trained to
+train the model using the train data,
+right?
+Yeah,
+then you're verifying the model is correct or wrong using some test data.
+That's what I'm assuming,
+yeah,
+that's what the test data on tested unseen data I tested,
+right?
+LG score of.
+Test data,
+how much I got?
+1 means 100%.
+OK,
+so tomorrow is perfect then.
+The 4,
+yeah,
+perfect.
+OK,
+thank you.
+Really,
+hey,
+hi,
+um,
+so
+we built it and we trained this,
+um,
+model.
+So what happens next?
+Like,
+uh,
+we would be taking in a,
+uh,
+regular dev ops-based model to take it to the production,
+like a pull request to GitHub,
+and from there we will be putting into the production,
+or we will follow a different process for the envelopes.
+No,
+no,
+for this production only,
+but what kind of,
+uh,
+interface you are giving either
+they are serving through fast API or gradio,
+that is the one we need to
+decide,
+OK.
+All right.
+Thank you.
+Yeah.
+That in the next session I'll show you.
+Don't worry.
+Yeah,
+next
+Hello.
+Uh,
+for the training data,
+uh,
+LG.
+score,
+you have done,
+right?
+So how,
+just with the training data,
+how the
+accuracy score is,
+uh,
+computed.
+External confusion matters.
+We'll discuss incoming session,
+what is confusion matters,
+everything,
+OK?
+OK.
+Yeah.
+So what is the purpose of that?
+Uh,
+why do we,
+I mean,
+anyway,
+we have the testing phase to check the accuracy.
+So in coming sessions we understand,
+we see how much it is understanding
+and how much it is predicting.
+So both are equal with the 5 different we call it as a good to go model,
+or otherwise we call it as an overfitting,
+OK.
+OK.
+OK,
+yeah,
+thank you.
+Yeah.
+Go ahead.
+Uh,
+this
+random state value which we give 42,
+we can assign any values.
+It would not have any impact,
+impact on our scoring or as such.
+No,
+you can,
+you can take any number of.
+OK.
+OK.
+Next.
+Go ahead,
+one by one.
+Without calling,
+you can,
+once done,
+you can go ahead.
+Yeah,
+uh,
+this Suresh.
+So
+we trained the model on the training data
+and then we tested,
+right?
+Uh,
+is it not looking strange to see the accuracy
+less on the training data on which it was trained
+and higher on the test data,
+but there is variations,
+fresh.
+So the data in the training cities is too much varied compared to the test.
+OK,
+is it generally expected in the industry,
+or it,
+it is
+no,
+it is up to 5% expected
+difference.
+OK.
+Yeah.
+And next,
+Shita.
+Yeah,
+uh,
+so,
+um,
+this grouping like 80/20,
+um,
+of the data,
+it is random or how,
+uh,
+it uses it's just random.
+You first with 80/20,
+then try with 70/30,
+then see which one is good,
+you'll go with the production general.
+OK.
+Yeah,
+next.
+Oh
+In while predicting we have given some data
+uh
+you have mentioned like
+uh that was from first row
+uh can we give there some random data like we can
+uh
+yeah
+anything you can give
+yeah
+so 2.5.
+3.5
+4.5
+1.2
+where it can predict it's a versicular.
+What is the problem.
+So
+suppose there is 80/20 pattern.
+So uh what values are there in 80?
+Can we,
+um,
+change them,
+bring them to 20,
+and,
+uh,
+some of,
+some of the 20 things can we,
+uh,
+take to 80 and then test again?
+Yeah,
+you can.
+Generally,
+that's what the shuffling is doing,
+right?
+So it is shuffling the data a lot in a sequence.
+It is taking some from 80,
+some from 20.
+OK,
+OK.
+Thank you.
+Yeah.
+What is the next question?
+Anybody's done?
+OK,
+let me take some questions.
+Uh,
+parato analysis 80/20 rule LG predict what does it produce.
+You try Santosh,
+it is,
+it's going to see nearby whichever is there,
+OK?
+But it doesn't say I don't know.
+It will produce some results.
+Can you plot a graph to visualize uh where
+the logistic relation model is making it prediction?
+No Chandra,
+that is a mat plot lab incoming sessions we'll see
+that in the today session everything we cannot go it,
+right.
+Yeah,
+Sandeep.
+So,
+so,
+while we are checking for two scores means we are giving,
+for example,
+we are giving 100 data as a sample and then we
+I'll remove the training then only 1 I'll test it.
+That's very good.
+No,
+no,
+I'm asking this.
+What is the
+that's what I said in coming sessions we call about overfitting of the model,
+right?
+That's where we need it.
+Oh,
+OK,
+OK.
+So the training and testing both are same or not.
+We'll check with the overfitting of the data.
+OK,
+that's where we need it.
+That's what I said.
+But don't get confused yourself.
+Only thing is through the testing score,
+what is we needed,
+OK?
+And uh those things in coming sessions,
+but in a one shot today is just started,
+right?
+So you cannot see everything in a one shot.
+So you have a lot of classes you have.
+So every class is one learning for you,
+OK?
+So today's classes
+you need to understand that there's
+a difference between classical machine learning.
+And then deep learning and uh then you need to understand how algorithm works,
+what is the training testing.
+This is only the terminology you need to understand in today's session
+and how this accuracy is calculating all those things.
+We have a complete session on feature engineering
+and accuracy calculating like,
+you know,
+precision recall and all those things,
+OK.
+OK,
+sir.
+Don't worry.
+So today is just you're stepping the first step,
+baby step,
+Vishwana.
+Yeah,
+hi sir.
+Um,
+similar to the very initial example of uh Y equals to 2 x + 1,
+OK,
+where we got the function as 2 x + 1.
+So here also in this case of,
+uh,
+Iris,
+uh,
+uh,
+example,
+can
+you cannot get the function,
+but,
+but somehow it makes up some function right internally.
+Yeah,
+internally that function you can see
+generally you say
+LGDAT but
+Coefficient,
+this is what you are getting,
+right?
+No,
+it doesn't make much sense actually.
+Yeah,
+so you'll get confused if I dig deeper.
+So don't get into that part.
+You today is the first session,
+OK?
+Just understand now.
+OK,
+Abhishek.
+OK,
+thank you.
+So if we use linear regression,
+uh,
+still we get,
+uh,
+predictability to the 90.
+How do we know that which is better?
+Linear regression,
+we cannot use boss.
+This is a classification problem.
+How can you use linear regression?
+OK,
+understood.
+So we need to use the classification algorithm.
+That is the reason I changed to logistic regression.
+Let me
+Uh,
+yeah,
+you populated the list of coefficients.
+Uh,
+so let's say
+the data considered for 80% is different,
+is shuffled.
+The values in coefficient can change
+maybe at 4th base or decimal
+they can change,
+yeah.
+But eventually our result more or less would be consistent.
+Yes.
+OK.
+Thank you.
+Firos.
+Ferros,
+you're unmuted.
+Yeah,
+hi,
+uh,
+my just question,
+like we are seeing the samples,
+is there any limit on this inputs and where we need to like
+How much size we can give
+for the limitation is there up to 1 gigabytes we can give
+uh terabytes it won't take classical machine learning,
+OK.
+OK.
+Yeah.
+Yeah.
+Sebastian
+Similar to Fier's question,
+uh,
+but if it's going to be addressed in the next session,
+excuse me,
+how we,
+but,
+uh,
+yeah,
+I'll tell you,
+you just question.
+I'll tell you today,
+her next session,
+yeah,
+yeah.
+So,
+yeah,
+so
+see,
+for example,
+you know,
+the limited samples,
+so you took the Iris,
+you know,
+those many types you're thinking,
+for example,
+there is before that,
+let me tell you,
+Sudashan,
+this example is just to make you understand
+how 50/20 split happens.
+Correct,
+correct,
+if you know the.
+If you don't know the percentage,
+if there,
+if you know there is unlimited things are
+there,
+are you still going to train not unlimited.
+How can you say unlimited or anything percentage is on you,
+right,
+sir,
+and how much you are splitting.
+So you keep on training the model,
+isn't it?
+Yes,
+80/20.
+That's it.
+Got it.
+Got it.
+Thanks.
+Thank you.
+Yeah,
+Mihali.
+So,
+uh,
+here you chose to use,
+uh,
+uh,
+I mean,
+like you,
+you,
+you first,
+um,
+classified the model as a classification problem,
+and then you chose a logistic regression model here,
+right?
+We have other classification models as well,
+like what,
+why,
+why did you,
+uh,
+Get to choose this one or or because this
+is today's first class you got the regression.
+OK,
+you just want to introduce this one,
+but like,
+OK,
+OK,
+we,
+we will know like,
+you know,
+when to apply,
+uh,
+even within the regression of
+where to choose.
+Those different,
+OK,
+got you.
+OK,
+I hope I answered everyone.
+Sudeep,
+yeah,
+go ahead.
+Um,
+hi,
+sir.
+So you used in the above,
+um,
+this random state.
+Is this affecting the score
+you're getting?
+Sometimes
+the shuffling of the data,
+right?
+Some random sample data and,
+uh,
+which is not related,
+sometimes you can get it.
+Because if you,
+if you
+use more,
+if you use a higher number,
+I
+probably this would affect,
+right?
+Yes,
+sometimes it affect.
+OK,
+thank you.
+OK.
+Now,
+somebody asked me,
+uh,
+how do you
+publish this model?
+I'll give you an example.
+Don't say how it is working and everything,
+OK?
+Just a simple example.
+OK.
+So let me take first of all,
+define.
+Prediction
+Flower
+something.
+It is going to take supple length,
+supple width,
+petal length,
+petal width.
+Before that,
+Import radio
+as GR.
+Radio is like open source,
+uh,
+you know,
+it is used for deploying machine learning.
+It is a framework radio.
+This one,
+which was used by Netflix,
+Amazon,
+for basically to deploy the model initially
+uh for the POC level,
+they use this one,
+OK?
+Gradio.
+So now,
+I can take that gradio.
+So for example,
+predict the flower.
+Uh,
+if LGR predicts a polio iris Setosa,
+print Setosa.
+Or we can say,
+Let me write down here.
+Data is equal.
+Stepper length,
+stepper length,
+petal length,
+petal length.
+This is the data,
+right?
+Then I can say
+Probabilities
+As they could
+Model that our
+prediction is equal.
+And you predict data,
+return the
+prediction.
+OK.
+Now,
+this is the function.
+By using radio,
+I can say.
+Themo is equal
+and say GR.
+Interface
+Prediction function share is a control.
+Very simple.
+You will get
+this is the live URL
+which is live for
+one week.
+Click this URL.
+I'll share this with you people.
+We can try
+the chat.
+Now you can enter the data,
+for example,
+supple length
+2.1.
+Seal with
+I didn't write anything right just I said gradio
+it is automatically taking care of all those things we find 2
+when I submit
+you will see Irish setosa this way we serve the model.
+OK.
+Either grade you or using the fast API.
+So these things today you don't need to learn,
+just to show you.
+In coming sessions,
+we'll see how to deploy the model and everything.
+Hope that you clear your doubt,
+how things are going in life.
+Yeah,
+thank you.
+That's what I was looking for.
+Yeah,
+great.
+Uh,
+uh,
+Doctor Ravi,
+I have one question.
+So it's a very basic thing I should ask then itself.
+See that,
+uh,
+input numpi as NP and input
+gradient as GR.
+Instead of that,
+can we directly put the code as input,
+uh,
+numpi or import gradient and go ahead by using
+instead of NP we use always gradient or numpi.
+Ramesh,
+you can say import graduas Ramesh also,
+no problem.
+Yeah,
+as Ramesh,
+suppose we do,
+I don't say anything as
+as
+you can direct a nampai.
+So every time writing nampai nampai,
+the shortest form you're writing alias you are giving.
+OK.
+So for example,
+at your name,
+uh,
+at home,
+Ramesh from Karapali,
+right?
+So at home you have an alias,
+right?
+So Ramesh say
+or some other name nickname,
+correct?
+So instead of calling that complete name,
+for example,
+myself,
+Dr.
+Mohammad Habibullah,
+so everybody say Habib Habib,
+that's it,
+right?
+So instead of giving that complete name,
+just say Habib.
+That is called as an alias.
+That is your wish if you want to write it or if you don't write,
+no problem.
+OK,
+thank you.
+Yeah.
+So now you see the practically when you see the slides,
+you will clearly understand now.
+So training means what
+we are taking some data from the RA and testing means we are taking some samples,
+right?
+And the training some example,
+we take the features.
+Every training has a label,
+for example,
+some is having apple,
+pears,
+orange,
+buffalo,
+and dog and horse,
+for example.
+Training will happen
+with the labels,
+and then it is going to get a model.
+So what is the model name?
+So model name is,
+uh,
+for example,
+LG we have given,
+correct?
+logistic regression like that.
+And when you give the data to the LG,
+it is going to predict the answers for you,
+OK?
+So this is what's happening in the training and the label features.
+Testing means what we give the features of one of the apple
+and we give it to the learned model
+and prediction will happens,
+OK?
+So generally learned models means the model can be saved and shared with anyone.
+You can share with anyone,
+OK?
+That is called as a
+learned model we can save.
+We can download and share with also.
+For example,
+if you say,
+Habib,
+can you share this model with us?
+I can do that.
+It's very simple.
+Uh
+This is so far that we have a library called us.
+Import
+the blib.
+Job lift
+Dot them
+Irish
+model like this.
+So you can see here,
+when I click,
+you will get one model,
+Iris model.
+Now anybody want,
+they can download this model.
+And they can use it.
+How they use it,
+I'll show you.
+For example,
+file new.
+Now,
+for example,
+I have given this model to you,
+what you will do.
+Uh,
+first of all,
+I upload the
+model,
+right?
+Which model?
+Iris model.
+I just now downloaded,
+correct?
+So,
+Taking time.
+OK.
+The upload
+Download.
+What is the model name?
+Iris model.
+OK,
+I got the model.
+So now how do you use it?
+Import
+job lib.
+Morally equal.
+Joblin.load.
+What is the model name?
+Harris model,
+correct?
+Copy path.
+Based here.
+Now you can say model dot.
+Predict
+For example,
+5.1,
+2.5,
+3.2,
+6.3 something.
+Discrediting Iris Virginica,
+correct?
+So this way you can give the model to somebody else and they can use your model also.
+So in production,
+what happens,
+we don't show all this training,
+we just take the model and we deploy the model into the production.
+Clear?
+So that is not happening here.
+And we have just given,
+uh,
+you know,
+what is the difference between supervised and unsupervised learning.
+Uh,
+for one
+example,
+Apple versus RN.
+So we,
+for example,
+we have a weight,
+color,
+and sphericity,
+some label data.
+This is called as in.
+Supervised learning,
+correct?
+And uh how the supervising learning will be done,
+they're separated by the features,
+OK?
+So these things will get in the
+coming sessions
+like how supervised learning algorithm works.
+So generally,
+uh,
+features are put into
+the column
+like,
+you know,
+not like a column.
+We are going to put into the row format.
+How do you put into the row format
+like this?
+So we say
+feature 2.1,
+2.5,
+3.5,
+6.1.
+So we write that is the reason I have written two square brackets,
+right,
+for the features,
+single square bracket for the Y because it is like a column vector.
+So it's a column vector,
+it is a row vector.
+OK.
+So let me first
+Export
+ADF.
+For
+the
+Yeah I am
+48.
+Session
+This
+is
+one.
+In the chart there is a PDF.
+OK.
+So meanwhile,
+it is converting to PDF.
+Whatever the questions you have,
+go ahead.
+You are done with your session.
+What other questions do you have?
+Any basic to advanced questions you can go ahead.
+Yeah,
+go ahead,
+Prakash.
+Yeah,
+um,
+uh,
+sir,
+can I ask you one like a separate questions,
+um,
+considering the Chinese model,
+uh,
+they are,
+they're
+charging very less compared to Changipity or
+other models.
+So what are
+Hello.
+Which one?
+Which model do you want me to say?
+Any,
+any Chinese models,
+actually the models which are coming from China,
+uh,
+their charges are comparatively Chat GPT or co-pilot or cloud are very,
+very less,
+less,
+yeah.
+Why,
+what means what are the process they are following which
+other
+big models cannot follow actually how,
+how this become very cheap.
+Well,
+Prakash,
+they don't follow any process.
+There is the cheaper,
+the more
+budget,
+the more the profit.
+That's their logic,
+OK?
+You go to the mobile electronics or anywhere
+they produce compared to Sony,
+iPhone,
+they produce the cheaper level devices and they want to get the acquire the market,
+right?
+So that's what sometimes they get a fee.
+But,
+uh,
+generally,
+nowadays what happens is
+If you're using a Chinese model
+and if you're going with the production,
+like most of the European countries,
+those models are not accepted.
+Applications are not accepting.
+They're clearly saying that we don't accept
+from models which are developed from China,
+OK?
+Because they're still they're afraid of data stealing.
+So they want to go from their own country.
+That's the main reason,
+OK?
+That's the reason they want to give you the cheapest one.
+OK.
+OK.
+Clear?
+Yep,
+yes,
+yes.
+Mihali
+So,
+uh,
+like in one of the examples you,
+you showed,
+uh,
+like,
+you know,
+to classify the problem using the gradient,
+right?
+Like,
+uh,
+is it the model that is deployed there and,
+uh,
+or
+like,
+because it is showing when,
+when I opened it,
+it was showing only the parameters that we have given in the code,
+right?
+So,
+uh,
+So you deployed it,
+uh,
+yeah,
+I deployed it.
+OK,
+you hear it say,
+right,
+it is deployed collab not be predicted.
+It is deployed into Gradiar cloud
+and the link is available for one week.
+Mm,
+OK,
+so this is more for us to uh see how our model like uh a pilot kind of,
+yeah,
+if you want to free hosting you can use this one pilot project POCs or something.
+Uh,
+so
+the
+video is,
+so go ahead.
+Yeah,
+if you pay,
+then we'll get a GPU and it can be permanently hosted.
+So radio is more for uh any pilot like free kind of deployments that we can test and all
+not only free,
+they will take like for example,
+Netflix,
+Amazon,
+these people,
+they deploy permanently on radio,
+they use it.
+OK,
+more often deployment
+kind of stuff happens in the
+cloud deployment platform you can say.
+Is it only for the machine learning models or like other stuff as well?
+Machine learning models only.
+Yeah,
+here is the link for the next note.
+Yeah,
+go ahead,
+Prakash.
+Yeah,
+no need to call,
+man.
+One by one,
+you can just unmute yourself and go ahead with the questions.
+Sir,
+I have a question.
+This,
+this may not be applicable right now.
+Does the,
+where does Pytorch come into picture?
+I've heard of something
+Pytorch.
+I'm not sure what is it actually.
+It is one of the deep learning framework
+of a deep learning or not machine learning,
+OK,
+yeah.
+So this is the beautified notebook.
+You can take it demystifying ML.
+This you can see whatever my handwriting is there
+it converted.
+So this one will help you more understanding.
+OK,
+this is also shared in the chat.
+Please download it,
+OK?
+OK,
+go ahead next.
+Yeah,
+um,
+professor,
+um,
+uh,
+deep
+Sikh,
+uh,
+of late we keep hearing that.
+So there are such a large language model,
+Ramesh,
+large language model,
+uh-huh.
+It is from Chinese,
+Chinese,
+and,
+uh,
+of course we,
+I am not,
+uh,
+I'm touching on a little
+ethical,
+uh,
+question.
+So there are accusations that they are plagiarizing other things and all.
+What is your observation
+they are doing,
+they are doing.
+OK,
+OK,
+thank you.
+All right,
+uh,
+Falak,
+Falak done with your question.
+No,
+no,
+let me in the sequence.
+Please raise your hands for the sequence.
+I'll take it.
+No,
+I was just,
+uh,
+waiting.
+Thank you.
+So for the job lib right that you explained,
+so
+basically is it like converting
+whatever there it in the code and just like,
+uh,
+importing a class that we normally do?
+Yes.
+So how to import the model deploy model in coming sessions we'll get more.
+OK,
+OK,
+yeah,
+which one,
+yeah,
+um,
+just now you have shown that how to,
+you know,
+uh,
+host a model and even anyone can actually download the model.
+So is it something like the model is something like a proprietary thing,
+right?
+I mean,
+can someone copyright that and they can modify they can even
+sell it,
+uh,
+they can even sell it somewhere.
+Yeah,
+hugging,
+like,
+you know,
+hugging face hubbies there,
+right?
+So there you can
+put it,
+or in open source community you can put it.
+So one of the thing is like,
+you know,
+uh,
+there is,
+uh,
+promptfu is one of the library they developed,
+OK?
+So when Cha GPT is scanning,
+like they published the Chajip
+uh promptfu,
+this is an evolution technique,
+OK,
+which is for the LLM,
+uh,
+they see that it's very good,
+and,
+uh,
+the Cha GPT acquired for 300 million,
+OK?
+So maybe you are the lucky one.
+You can deploy the good models and people will buy it,
+no problem.
+OK,
+I mean like when someone downloads a model
+they will have access to that kind of internal
+source code or something,
+isn't it like
+no,
+not source codes only a model they don't have a source code,
+only the model.
+Uh,
+OK,
+fine,
+sir.
+I will try to explore that further.
+Thank you.
+Um,
+professor,
+I have one more question.
+So let us,
+Ramesh,
+let us,
+people,
+they raise the hands right in the sequence.
+Let us get in.
+It's not good,
+correct?
+So Falak,
+I think you have done your question.
+Please lower your hand.
+Saimohat.
+Yeah,
+uh,
+yeah,
+have,
+uh,
+one thing like,
+uh,
+I mean,
+not to summarize the things,
+so classification
+problem means like it's,
+it's a kind of discretion we can consider.
+We can think like that,
+right?
+Yes,
+yes,
+that's what we get discrete variables,
+right?
+Discrete variables and the regression problems,
+uh,
+like it will be continuous.
+Yeah.
+Oh,
+OK,
+fine.
+Uh,
+that was my question.
+Yeah,
+that's it.
+OK,
+Philip.
+Yeah,
+hi,
+um,
+see,
+I'm from Melbourne actually.
+So what are we going to do exactly in the,
+uh,
+the second half,
+uh,
+the lab sessions?
+Are we able to do it in the during the weekday rather than
+doing it on the same day you need to connect with support team,
+Billy,
+exactly.
+OK,
+no,
+the reason I'm OK,
+uh,
+the reason I'm asking is someone going to available there live to give,
+yeah,
+just know it's there.
+AML support is there.
+They'll answer you once I have done.
+You'll get it.
+OK.
+All right,
+thank you.
+Yeah,
+you can just,
+uh,
+ping them now.
+Just give me a moment.
+Let me finish.
+Support will answer the question,
+OK.
+Kalian
+That,
+uh,
+the,
+the model when,
+when we share with others,
+uh,
+so is it a binary format or
+what exactly is the format of that model?
+It is uh machine learning binary format only.
+Come on,
+yeah,
+yeah,
+so
+have you,
+once the
+we got the model,
+we have deployed it on the cloud
+server.
+So how do we monitor the accuracy of the model
+once for that we have ML flow tool is there we have to connect that
+or we can go with the Prometheus or Grafana
+logging tools,
+OK.
+And is that part of like the AIML engineer's job?
+Yes.
+OK,
+not the.
+No,
+no,
+no.
+Sometimes,
+see,
+uh,
+in corporate companies,
+like for example,
+I'm in the work startup startup company.
+You are the developer.
+You are the deployer.
+Everything you'll do it,
+right?
+If you go to
+something like Microsoft or Aki kind of thing,
+you're not supposed to touch any deployment.
+You don't know what is happening,
+correct?
+So depend upon the company you're writing.
+So but you have to be very hands on on all these three
+so you can
+go anywhere,
+right?
+Yeah.
+Yeah,
+I mean
+Yeah,
+this LLM,
+I'm a bit confused.
+So LLM
+for developing an LLM
+session is not LLM,
+right?
+Ramesh?
+No,
+no,
+it's,
+uh,
+out of,
+uh,
+context.
+LLM
+developing an LLM
+is ML,
+uh,
+employed or is it a must?
+ML employed
+ML used for developing an LLM or uh
+yes,
+yes,
+ML used with transformers.
+Transformers and is it a compulsory thing to use uh LMML
+for
+developing an LLM.
+Come again.
+Is it mandatory to use,
+um,
+yeah,
+how do you train them then
+without AML?
+How do you train LLM?
+OK,
+thank you,
+yeah,
+Sandeep.
+Uh,
+yes sir,
+this is,
+uh,
+not from today's season,
+and actually I was just curious to know when we are uploading,
+uh,
+like,
+uh,
+in,
+in today's example we are uploading
+cat images and,
+uh,
+dog images to train the model.
+So in the back end it will create a matrix like something like matrix for,
+uh,
+each image
+pixels it will take.
+OK,
+OK.
+That is of pizzas.
+OK.
+Yeah.
+We're back.
+Uh,
+uh,
+can unsupervised learning find a pattern that does not exist.
+Come again.
+Your voice is very low.
+OK,
+can you hear me,
+sir?
+Yeah,
+I can hear you now.
+Go ahead.
+Yeah,
+can unsupervised learning find a pattern that does not exist?
+No,
+it cannot.
+Selwyn
+Selwan,
+go ahead.
+You're on mute.
+In no way you're audible,
+Selwan.
+I don't know if anybody has listened to Selwan.
+Hello,
+can you hear me now?
+Yeah,
+now I can hear you.
+So the thing is,
+uh,
+you have shared us the model,
+right?
+So similarly,
+we,
+we,
+uh,
+whenever we have the data,
+we can create our own model.
+But the thing is I have created the model
+with the data which I have.
+Now I'm sharing it to my
+mm the core-employees or
+others,
+OK.
+Uh
+they have a separate set of data,
+OK.
+Can they retrain the same model or they have to
+create the model
+from the scratch.
+No.
+For the classical machine learning,
+they have to from the scratch.
+For the deep learning,
+we call it as a continuous learning,
+we call it,
+OK?
+Or transfer learning,
+we call it.
+There,
+the last layer of neural network,
+we can add the data and we can retrain it,
+learn it right from the scratch.
+OK.
+OK.
+OK.
+OK.
+Got it.
+Yeah.
+Mm.
+Can I ask you a question?
+Yeah,
+please go ahead.
+You're most welcome.
+Hey,
+now that
+the coding is automated very well,
+so
+should we still write code?
+Very good question.
+OK.
+OK.
+Uh,
+myself,
+uh,
+I'm working as a head of the department,
+I said,
+right?
+Uh,
+so still I do write code.
+But
+remember,
+nowadays,
+even if you are submitting the PRs and this one,
+debugging is taking a lot of time.
+So if you don't have an idea of the coding and you're using the tools,
+you don't know where the changes are made,
+how many files it's impacted.
+So
+for the coder life is you definitely need to have a coding,
+but that will help your advantage instead of
+taking one day
+you are taking in within a minute or within 2020 minutes you can do the job.
+That's the main advantage,
+OK.
+Yeah,
+I agree.
+I'm mostly for debugging,
+so
+yep,
+that will take a lot of time.
+How many files it is because AI can change anything,
+right?
+If your prompt is not good,
+you have to look into that.
+What are the changes accepted.
+You have to accept it properly.
+That's right.
+OK.
+So,
+Sandeep,
+I think you are done with your question.
+Please lower your hand,
+Prakash.
+Prakash,
+also I think I have complete your question.
+I have one question actually.
+So
+thinking that mostly we are like using AI for writing codes and everything now.
+Companies are
+like forcing employees to go away from,
+from the development part.
+But what I observe,
+there may be a possibility like AI is also,
+uh,
+giving wrong output,
+wrong information.
+So definitely
+who
+is
+written with AI.
+And
+that code is accepted and deployed,
+then
+they get a problem in production.
+Then the developer,
+then they need to hire the developer to fix the problems.
+Yeah,
+definitely.
+That,
+that will be very complex
+part actually.
+That is the reason they are not removing developers completely,
+Prakash,
+OK?
+The industry is looking for the developers
+with the knowledge of AMLIendra.
+Generative way,
+right?
+So that's where you can win the game.
+So people,
+they don't see.
+Once they get,
+I'll tell you strong,
+don't take it is wrong,
+OK?
+If I join the job and if I am writing some code,
+so people,
+unless until they say go and join the course,
+learn AI,
+they will be lazy.
+They say,
+OK,
+let us see.
+Without me this will not go away,
+right?
+So some one fine day they'll get a pink slip saying that
+we replaced because you are not having adequate techniques or,
+you know,
+skills in AIML.
+So because now industry is looking for the AI.
+So if you train yourself,
+nobody will touch you,
+right?
+So they are looking for the professionals with
+some AI knowledge and using it and everything,
+correct?
+So that's where
+you win the game.
+So
+this,
+uh,
+very simple one,
+developer is
+lifetime learning only.
+Developer life is lifetime learning only.
+So you have to every now and then,
+uh,
+one by one,
+you have to learn today,
+AML tomorrow,
+agent take,
+then FD like that.
+This is goes on if you want to survive in the market.
+Yeah,
+yeah,
+thank you.
+Blinker Rashaker.
+Yeah,
+hi,
+sorry.
+Uh,
+I just had a very fundamental question.
+So I,
+uh,
+so deep learning is a subset of machine learning,
+which is a subset of AI.
+I'm just,
+I'm just curious to understand
+what else is AI beyond ML?
+I'm,
+I'm getting confused there.
+See,
+a lot of AI is coming in the part trinket.
+So if that AI comes into the part,
+then I think
+human life will be,
+you know,
+more dominated by robots or something.
+So we are into just simple general AI.
+So coming in,
+then we have,
+uh,
+intelligent AI comes in
+which will train itself by looking at the data as a human more precisely.
+So the quantum computers are developing right at the time,
+I think that is generally
+the main idea is the quantum monochip level
+programming make it very easy and very faster.
+But destruction part also is there,
+right?
+So,
+uh,
+for example,
+10 people can be replaced with 1 person who is having a quantum computer knowledge,
+something like that.
+Yeah,
+but I guess the fundamental logic of AI is all
+ML,
+right?
+I mean,
+we are feeding data,
+yes,
+ML only,
+all ML only without ML with no AI at all.
+Yeah,
+that's what I want.
+See that?
+Yeah,
+hi.
+So,
+uh,
+in the session we had a discussion on forward deploying,
+right?
+So once this book is completed,
+so and we forward in this,
+so
+are we ready for the,
+uh,
+forward deploying engineer with this course?
+It is complete course once you take the project,
+right,
+final,
+you are in that state to see that,
+OK,
+yeah,
+Ramesh.
+Yeah,
+a little out of this question again,
+um,
+so,
+uh,
+out of this context,
+um,
+see,
+I'm a senior guy in SAP.
+So how much AI can play a role and how much it is playing a role.
+You have any idea?
+Yeah,
+SAP is now they're moving towards AI and AI is replacing the SAP also.
+It can happen,
+OK,
+because SAP is one of the huge CRM,
+right?
+So
+it can be replaced with AI with the new,
+newer tools.
+That's the reason SA also now they are integrating AI in that.
+OK.
+And you have any,
+of course,
+you are not,
+uh,
+need not answer this if you don't want to,
+but,
+uh,
+so,
+uh,
+uh,
+what is the tools and what is the approach SAP may be having?
+Do you have any idea?
+Yeah,
+in coming sessions,
+I'll discuss,
+uh,
+Ramesh.
+We'll take you in cases and we'll discuss that,
+OK?
+Just remind you.
+OK,
+bye.
+Hash Parma.
+Uh,
+hi,
+sir.
+Uh,
+in a real-world scenario,
+have you ever experienced any false positive prediction?
+Uh
+Definitely we'll get um hash formation even in the generator we also will get it.
+So we have to handle that.
+That is hallucination,
+right?
+Yeah,
+but how do you handle it?
+Uh,
+that is in coming sessions we'll see.
+OK,
+yeah,
+thank you,
+sir.
+You're welcome,
+so there.
+Hi sir,
+um,
+so you had this deployable model which you were,
+you know,
+loading in,
+uh,
+and this is already containing the data set,
+right?
+So how big
+can such a deployable model
+be handled?
+I mean,
+is,
+are there any limits because you need
+in production
+limitation is on the cloud,
+right?
+So there,
+so generally it go up to less than GB generally most of the models,
+OK,
+less than 1 gigabyte,
+and that to be even if you are going with.
+And
+GitHub you push it right so that is uh you have to say
+LFTM uh you have to enable it large file systems right LFS.
+So
+that's the main problem,
+yeah,
+Gandhi,
+thank you.
+Same Gandhi pan pan.
+Hey,
+hi,
+um,
+um,
+myself in real world projects,
+how we are deciding,
+uh,
+when the traditional
+machine learning versus,
+uh,
+deep learning example is for a banking fraud
+detection systems with the millions of transactions,
+right,
+which are then we go with the deep
+learning as you said,
+millions,
+right,
+yes,
+millions of millions because of deep learning.
+OK.
+Yeah,
+and a weak place.
+Yeah,
+so
+Yeah,
+uh,
+hi,
+actually I'm in a Microsoft D365 technical consultant,
+so,
+uh,
+this,
+uh,
+I mean this AI machine learning or this course,
+I mean this will have,
+uh,
+what kind of impact it might have for this,
+uh,
+for the developers,
+uh,
+any idea?
+Definitely right.
+The developers also like,
+you know,
+that they replace with
+the general
+professionals.
+So like things will happen in a way that frankly,
+so Adobe Photoshop,
+right,
+someone
+used the cloud code and he deployed within one week he developed a complete,
+uh,
+uh,
+Adobe Photoshop and put it in a GitHub.
+So the company now they download it and they,
+uh,
+just they delete it.
+Using it,
+but meanwhile people deleted.
+They can uh deployed.
+They used it right
+instead of paying some lot of huge amount.
+So the same thing will happen with Microsoft and big companies.
+So going forward,
+the products will become very cheaper.
+OK,
+OK,
+perfect,
+and,
+uh,
+have you one more thing like what are the,
+uh,
+PPT you have shown in this session like will it,
+will that be shared?
+Yes,
+PPT will be shared and just now I have shared the PDF also,
+right?
+Everything will be shared and the LMS also you'll see that.
+OK,
+yes,
+yes,
+and the collab link which you have shared,
+right,
+so that we can directly upload it and we can capture.
+Yes,
+exactly.
+You can run it,
+yeah,
+OK,
+thank you.
+Yeah,
+thank you,
+Rosanna.
+So
+see this is related to the generator
+generic question.
+So say for example there are two AI models.
+Can
+we park gender TI questions from coming sessions when we discuss gender TI?
+Issues.
+Yeah,
+because,
+see,
+today is just a simple session,
+right?
+So let us
+understand that any questions in that,
+that will be better,
+people will get it.
+But meanwhile,
+you are the last one.
+Yeah,
+go ahead,
+Prasana.
+Yeah,
+so actually my question is,
+say,
+for example,
+there are two AI models which will
+be used for generating the images.
+So how one model can be better than the
+other model if they're deploying using the same uh
+libraries and algorithms?
+Is it
+on the training how they are training more,
+more training data,
+more training data is the one.
+And second thing is handling the gadrs properly
+and bias properly,
+OK.
+OK,
+OK,
+yeah,
+got
+it,
+Nihali,
+yeah,
+so,
+uh,
+so like for example we used a linear regression example,
+right,
+uh,
+where we had y is equal to m x plus C and where we gave some input and it gave an output,
+uh,
+predicted the next value.
+For,
+uh,
+so it,
+it,
+the model identified a pattern and gave a prediction,
+right?
+That's what happened in that,
+right?
+Now,
+um,
+for example,
+when we give an input,
+uh,
+there can be multiple patterns,
+right?
+Like
+how,
+if,
+if there is a conflict,
+then what happens?
+It is going to take any one of the pattern
+and you'll get the scoreless.
+Then we have to switch to another model.
+Oh,
+OK.
+So,
+so,
+will it propose,
+like,
+you know,
+it will show us different patterns and give it the,
+no,
+it will make a decision on its own,
+and then,
+yes,
+yes,
+yes,
+yes,
+but how do we know that it has,
+it has identified multiple patterns and then gave a,
+a different,
+it won't identify only one pattern it identifies,
+OK,
+if multiple patterns are there.
+Then you have to go with a deep learning.
+How do we know it has,
+it has,
+uh,
+uh,
+then accuracy is the one,
+right,
+Nihali?
+When you're finding the accuracy,
+if you're not getting correct answers,
+that is not,
+it's not identifying properly,
+correct?
+Got you.
+Got you.
+So we look at the out,
+like,
+you know,
+the expected output,
+and,
+OK,
+got it,
+yeah.
+Saishwar,
+go ahead.
+And sir,
+so for example,
+let's say if I,
+let's say if we want to manage,
+let's say if we want to manage,
+let's say if we want to manage,
+uh,
+if we want to manage
+steam engines and stuff,
+right?
+What,
+what,
+what should I manage?
+Like,
+let's say,
+let's say if I,
+let's say somebody wants to
+Let's say somebody wants to know the life
+of a particular engine,
+right?
+So,
+so it's like,
+so it's like he might go
+he might.
+He might
+go
+and
+Yeah,
+yes,
+yes,
+mm,
+so what is the question?
+So,
+so is he supposed to use ML or DL there because,
+because,
+you know,
+like
+they might get depends on,
+depends upon data what kind of data is coming from the sensors side,
+OK,
+so they can use ML or they can go with the deep
+learning that totally on that data how it is coming in,
+OK.
+OK.
+Yeah,
+thanks.
+Come on.
+I had a question on Jenaya,
+but you told that
+to park those questions for later sessions in the sessions,
+yeah,
+we'll discuss that.
+Sorry for that,
+OK,
+because let us not divert the session.
+Let us do
+properly step by step,
+OK?
+Sounds good.
+Thanks for understanding.
+Come on.
+Yeah,
+Mandesh we're all.
+Thank you for uh
+giving a lot of inputs on this,
+how we train it.
+OK,
+we have one question that,
+uh,
+you use it as data,
+right,
+so that,
+uh,
+the flowers are not.
+So,
+so what is that site?
+Could you please bring me in the
+chart so that UCI repository?
+Yeah,
+UCI repository.
+While keeping the child.
+OK.
+So,
+Nagesh says in the previous classes,
+TS taught us math behind ML from all your opinion,
+or experience,
+what math is more important for our course because we learn many maths,
+we forget that maths going forward.
+So any suggestion that we need to brush up every week to get better.
+Understanding of your classes,
+for example,
+learn mostly which we learned in one of the classes.
+Noni Nagesh.
+That is like,
+you know,
+brushing up and making you because the level of statistics you need to understand,
+that's enough.
+But if you're living it out and only whatever you are using in the classes,
+there are things you can learn and you can implement it,
+OK.
+So don't need to worry about the maths.
+Don't fear of maths.
+Yeah
+Uh,
+who is the next
+Sunnita?
+Yeah,
+Dr.
+Habib,
+uh,
+when you dump the model
+into
+some job lab,
+right,
+the,
+the difference between dumping the job,
+uh,
+model versus deploying it.
+I,
+I'm trying to understand,
+like when I want to share this model with my colleagues,
+do I just need to save it uh in the job lib?
+And
+two things are there.
+Yeah,
+develop two things are there,
+Sunita.
+One thing you are sharing with your colleague,
+you can dump it and share it,
+OK?
+Second thing is,
+for example,
+the radio example is there,
+right?
+So the radio example you need,
+don't need all the code part.
+What do you need?
+You need here this particular model,
+correct?
+So you can just replace this with the model.
+That's it.
+Correct?
+Yes or no,
+you are loading the model and you're deploying the model.
+So somebody shared the model.
+So you,
+when you are sharing to the dev ops person,
+you,
+you just share the model and this code.
+You don't need to share all this,
+uh,
+code,
+blah blah blah,
+right?
+So we can share it and we can deploy it both ways.
+OK,
+but when I share it with my colleague,
+uh,
+from Job Lib,
+they,
+they will,
+that is not a deployed version,
+right?
+No,
+not deployed version.
+That's a starting,
+you know,
+standalone mobile model.
+That's,
+so that is more for a developer,
+but
+for deployed version it is for an end user.
+OK.
+That is what I
+wanted to clarify.
+Thank you.
+Thank you.
+OK,
+thanks a lot guys.
+It was nice talking to you all.
+OK,
+Shital,
+go ahead.
+Yeah,
+in continuation to Sunita's question,
+um,
+so job lip dump,
+uh,
+uh,
+you did that,
+but,
+uh,
+to share it with someone,
+but again,
+explicitly you imported that,
+um,
+package,
+uh,
+in the
+package
+load Shital
+we cannot load it,
+right.
+Yes,
+but like
+in grade you can publish it.
+So is there a way to do that as well,
+or it's not?
+Yeah,
+you can
+publish in the grade
+you just share the URL that way you can do,
+right.
+Either you publish in the radio and give it,
+but in the deployment part,
+suppose if you're working in a software company
+and you need to deploy the model,
+no need to write all those things.
+You take the model and put uh
+put into the GitHub
+report,
+deploy it,
+correct?
+OK,
+yeah.
+Yeah,
+right.
+Yeah.
+OK.
+So it was uh very,
+I'm happy that a lot of questions and uh a lot of answers I gave.
+I hope
+I'll give an answer to each and everyone.
+And thanks for your patience,
+listening
+patiently,
+and please share the Google Collab.
+I already have shared,
+but still I'll share the notebook with you.
+OK.
+Thanks,
+everyone.
+We'll catch up in the next session.
+Thank you,
+sir.
+Yeah,
+you're most welcome.
+Yeah,
+thank you so much.
+It was a nice session,
+uh,
+Doctor Habib.
+Habib.
+Thanks.
+Thank you.
+Yeah,
+you can say Habib Ramesh.
+You can say Habib.
+OK,
+OK.
+Thanks for your compliment.
+Yeah,
+yeah,
+Habib,
+this is Srida
+before leaving.
+Can you tell us,
+I mean,
+best practices are the habits so that we can become very proficient
+as this is day one and
+you'll be having some,
+you are very come again,
+come again,
+come again.
+Oh,
+OK,
+OK,
+yeah,
+yeah,
+you are very experienced in 15 in the last 15 years you have seen more movies,
+right?
+So
+what are the best practices are,
+uh,
+I mean.
+Habits so that we can be
+efficient across this course and then course.
+Yeah,
+definitely,
+Ramesh.
+So going forward,
+see that.
+So going forward I'll explain your first session is that right?
+So you just see
+what is there in that.
+Tomorrow we have another session.
+So next week you'll see the real
+impact of the session,
+how we move ahead,
+OK.
+Sure.
+Thank
+you.
+Yeah.
+OK.
+Thanks a lot,
+everyone.
+Thank you.
+Thank you all.
